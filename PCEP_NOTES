@@ -1,0 +1,540 @@
+                                                                                                                     #####Python Certified Entry Level Programmer###########
+Python version 3
+Anaconda/Pycharm is Python interpreter and notebook for python codes.
+
+
+Source Code: human readable (programe what we write)
+Machine code: only machine can interpret (machine which coverts our source code in machine reading format)
+
+
+Source code ---->Machine code 
+(compilation)       (interpretation)
+
+##Difference:
+
+Compliation                                                      Interpretation
+-complile source code only once.                   -interpret source code every time you run code(programs)
+                                                                        - Needs the intrepreter to run , PYTHON is intrepreter based language
+##Python interpreter behaviour:
+
+1) reads code from top to bottom.
+2) throws error based on checking :
+            a) lexis (keywords , if we use special python standard keywords as variable, it will throw error)
+            b)syntax
+            c)semantics   
+
+####Print using double quotes #######
+
+print("I'm learning Python developer! \nI'm  loving it!")              ## \n is used for new line
+
+
+I'm learning Python developer! 
+I'm  loving it!
+
+==print using single quotes:  ===
+
+print('I\'m learning Python! \nI am loving it !!!!!!')
+
+I'm learning Python! 
+I am loving it !!!!!!
+
+=== wrong print spelling ====
+
+prin("hi")    ## always make sure to type print , otherwise it will throw error
+
+NameError: name 'prin' is not defined. Did you mean: 'print'?
+
+Process finished with exit code 1
+
+
+====printing two stings ======
+
+
+print("I'm learning Python","I'm loving it! horraaaayyy#")   #### in same line
+print("I'm learning Python developer!\n""I'm loving it! horraaaayyy#")    #### in different line 
+
+
+********* Variables ****************
+
+Python has no command for declaring a variable. A variable is created the moment you first assign a value to it.
+Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory
+
+
+greeting="Welcome to Python."     #####string
+print("Hi User!!!!!!",greeting,"\nHope you are enjoying!!!!!")
+
+greeting=4555  ###integer
+print (greeting)
+
+
+## note that variable should be first defined , then print . Reverse will give error , as below
+
+print(greeting)
+note="greeting"
+
+NameError: name 'greeting' is not defined
+
+Process finished with exit code 1
+
+
+
+## it will always take the latest value as input , as below:
+
+
+note="greeting"
+print(note)
+
+note=("hi")
+print(note)
+
+
+greeting
+hi
+
+--NOTE: from cannot be used as variable for value 
+
+from=(10)
+print(from)
+
+The above code is wrong , as from will not be accepted.
+
+
+******** DATA TYPES. ***********************
+
+age=35  ######integer data type 
+
+age=35.5   ######float data type
+age=35.0   #####float data type
+
+
+name="shailesh, how are you"       ##string
+
+Bollean Values:
+
+True, False
+
+am_i_young= False
+am_i_young=True
+
+## Octal numbers: start with 0O (zero small alphabet o) or 0O(zero capital alphabet O).  Example-->>  print(0o123)
+## Hexadecimal numbers:  starts with 0X or 0x     Example--> print(0x123)
+## Underscore in number   -- >>      120003000 is same as.  12_000_30_000   (it is just used to make in readble format) 
+## Scientific notation.
+5e^-4 ---->5*1/10000--->> .00005
+
+
+ ----->>>>>>OPERTAORS in PYTHON<<<<<<---------
+ 
+ a=5
+b=2
+c=5
+
+print(a+b)  ---  addition
+print(a-b)  ---subtract
+print(a*b) ---multiply
+print(a/b) --- division.        ---output will always be in float value, see below examples   ----
+Example:     a/b=2.5
+                    a/c=1.0
+
+print(a//b) ---integer division          ---always gives result in integer, as below example
+Example:    a/b=2
+                   a/c=1
+                   
+                   
+print(a%b). ---remainder (modulous) division.   -----this always gives remainder as output
+Example:   a/b=1
+
+print(a**b) ---exponential multiplication------to the power value (like square ,cube) 
+Example: a**b = (5)2= 5*5=25
+                 b**c=(2)5=2*2*2*2*2=32  
+                 
+When we have 3 values like ,
+
+print(3**2**4)
+it will work as :
+
+3**2^4( which will be 16 (2*2*2*2)
+3**16 (3*3*3*........(likewise 16 times)
+So final output is :  43046721
+
+
+
+
+
+####Reassigning Values##########
+
+
+age=7
+print(age+5)
+
+age=7
+age +=7       (shortcut for age=age+7)
+print(age)
+
+print('hi'+'hello')          --Concatenate two strings
+hihello
+
+print('23'+'5')              ---Concatenate two numbers
+235
+
+print('hi'*2)              ---Multiply in string
+hihi
+
+
+############### Input function ################
+
+The input() method takes input from the user and returns it.
+
+data=input('Enter your current city_name:')
+print("Welcome to ", data)
+print("Hope you are doing great in ", data)
+
+#it will prompt for input as below and give output based on print
+Enter your current city_name:London
+Welcome to  London
+Hope you are doing great in  London
+
+
+########Casting in python #############
+
+It is basically conveting the data type to antother data type , like 
+
+float() --> int()
+int()--->float()
+str()---this is rarely used
+
+Integers:
+
+x = int(1)   # x will be 1
+y = int(2.8) # y will be 2
+z = int("3") # z will be 3
+
+Float:
+
+x = float(1)     # x will be 1.0
+y = float(2.8)   # y will be 2.8
+z = float("3")   # z will be 3.0
+w = float("4.2") # w will be 4.2
+
+strings:
+
+x = str("s1") # x will be 's1'
+y = str(2)    # y will be '2'
+z = str(3.0)  # z will be '3.0'
+
+
+## Seperate parameter (sep)
+
+The separator between the arguments to print() function in Python is space by default (softspace feature) , which can be modified and can be made to any character, integer or string as per our choice. 
+The ‘sep’ parameter is used to achieve the same, it is found only in python 3.x or later. It is also used for formatting the output strings. 
+
+#for formatting a date
+print('09','12','2016', sep='-')
+
+09-12-2016
+ 
+#another example
+print('shailesh','learning python', sep='@')
+
+shailesh@learning python
+
+
+
+## End parameter:
+
+Python’s print() function comes with a parameter called ‘end’. By default, the value of this parameter is ‘\n’, i.e. the new line character. 
+You can end a print statement with any character/string using this parameter.
+
+
+
+
+
+
+
+##### If-else, elif  #####
+
+age=int(input('enter user age:'))
+if age > 50:
+    print("User is young and not old")
+else:
+    print("User is bachelor!!!")
+    
+
+age=int(input('enter user age:'))
+if age > 50:
+    print("User is old")
+elif age == 30:
+    print("user should be professional")
+else:
+    print("User is bachelor!!!")
+
+
+## Comparison Operators: 
+
+== (double equal)  ---> means equal to ---> x==2
+!=                          ----> not equal          ----> x!=2
+<      less then
+>      greater then
+>=    greater then equal to
+<=    less then euql to
+
+
+
+### Logical operators:  
+
+1) not
+2)and
+3)or
+
+**Order of evaluation of logical operators: - In the case of multiple operators, Python always evaluates the expression from left to right. 
+
+### Python Loops ###
+
+While loop---  it is used to repeat over block of code as long as the condition is true. ( code logic tab tak chalega , jab tak required condition satisfy na ho jaye).
+
+##for loops ---
+
+
+The for loop in Python is used to iterate over a "sequence" (list, tuple, string) or other iterable objects. Iterating over a sequence is called "traversal".
+in short , this is easy way of coding as compare to while loop.
+
+RANGE function:  very imp and useful function that creates a sequence of numbers, for example see below:  
+
+for i in range(1,6):      ---(range function here will follow sequence from 1 to 5 (n-1 of last digit)
+    print(i)
+print('done')
+
+** this will print values from 1 to 5 
+
+1
+2
+3
+4
+5
+done
+---------------------------------------------------------
+
+
+for i in range(6):
+    print(i)
+print('done')
+
+same as above , default it takes 0 to start as counter
+
+1
+2
+3
+4
+5
+done
+
+
+
+
+#### Break and continue. ########
+
+-The break statement terminates the loop immediately when it encountered condition
+-The continue statement skips the code after it for that iteration of the loop.
+-IMP note: break and continue statemets are almost always used inside the if..else statement
+
+### More data types####
+
+1) List
+2) tuples
+3) dictionaries
+
+Python lists are one of the most versatile data types that allow us to work with multiple elements at once.
+# list 
+name = ['ram','shyam','aam']
+
+Indexing is done, so it it will be counted 0(ram),1(shyam),2(aam)
+
+** Indexing always starts from 0 
+
+  
+names=['ram','shyam','aam']
+print(names[2])
+
+output:aam
+
+names=['ram','shyam','aam']
+print(names[5])
+
+ print(names[5])
+IndexError: list index out of range
+
+
+SLICING##
+
+cities=['london','nyc','india','paris','japan']
+
+cities[0:3]. ---it will take values from 0 to 2 (n-1) , so output ---->>> london,nyc,india
+cities[-5] --it will start from end -->> so output will be japan
+cities[3:10]---> it will start values from index 3 --->>so output will be paris,japan 
+
+Delete##
+
+cities=['london','nyc','india','paris','japan']
+del cities [2]
+print(cities)
+
+output:  ['london', 'nyc', 'paris', 'japan']
+
+so we can delete also , note DELETE is not function , its a instruction call.
+
+## How to add in lists###
+
+using APPEND:
+
+cities=['london','nyc','india','paris','japan']
+cities.append("canada")
+print(cities)
+
+
+output:  ['london', 'nyc', 'india', 'paris', 'japan', 'canada']
+
+
+using INSERT: ( to add in specicific indexing like add at position 2)
+
+cities=['london','nyc','india','paris','japan']
+cities.insert(2,"canada")
+print(cities)
+
+
+output: ['london', 'nyc', 'canada', 'india', 'paris', 'japan']
+
+
+## Iterations in list --
+
+cities=['london','nyc','india','paris','japan']
+print("delhi" in cities)
+
+output: false
+
+cities=['london','nyc','india','paris','japan']
+print("london" in cities)
+
+Output: True
+
+## changing list position or sorting list
+
+cities=['london','nyc','india','paris','japan']
+print(cities)
+cities[0],cities[3]=cities[3],cities[0]
+print(cities)
+
+output:
+
+['london', 'nyc', 'india', 'paris', 'japan']
+['paris', 'nyc', 'india', 'london', 'japan']
+
+Sort vs sorted: (we can also do sorting for number and strigs)
+
+Sort cannot be reverted
+sorted can be reverted .
+
+
+#Copying the list using slice method###
+
+When we want to keep the old values also and want to get new values
+
+#old list
+list1=['cat',1,5.5,'mouse']
+#copy list using slicing
+list2=list1[:]
+#adding an element to new list2
+list2.append('dog')
+#print both the list
+print(list1)
+print(list2)
+
+output:
+['cat', 1, 5.5, 'mouse']
+['cat', 1, 5.5, 'mouse', 'dog']
+
+## List comprehension #####
+numbers=[i for i in range (1,101)]
+print(numbers)
+
+numbers=[i for i in range (1,101) if i % 3 !=0]
+print(numbers)
+
+
+**so basically it is easy way of using "for " loop , heavily used.
+
+#########################################################TUPLES #############################################
+
+Tuples are similar as lists , however
+Tuple is Immutable(cannot be changed), whereas Lists are mutable(can be changed)
+
+tuple uses()
+lists uses []
+
+note , () is not manadatory in tuples ,it will accpt value without brackets()
+
+
+## Dictinoary ####
+
+it is a datatype which allow us to use "key value paris"
+we can easily access a values from a dictionary if its key is known
+to add/change items in dictionary  we can assign values to the key
+POP: can be used to remove items in dictionary
+
+Creating a dictionary is as simple as placing items inside curly braces {} separated by commas.
+
+
+
+Dictionaries are mutable. We can add new items or change the value of existing items using an assignment operator.
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
