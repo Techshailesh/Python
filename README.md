@@ -65,84 +65,9 @@ code:
     print("I am inside the else block")
 
 
-
-Type 3 :  the "elif" ladder
+***************************
+Type 3 :  the "ELIF" ladder
 *************************** 
 
 
-a = 0
-
-
-if a > 0:
-    print("value of a is positive")
-    print("I am inside the if block")
-elif a==0:
-    print("Sorry, input provided is zero")
-    print("I am in ELIF block")
-    
-else:
-    print("value of a is negative")
-    print("I am inside the else block")
-
-
-
-output:
-
-   Sorry, input provided is zero
-   I am in ELIF block
-
-
-
-
-a = -5
-
-
-if a > 0:
-    print("value of a is positive")
-    print("I am inside the if block")
-elif a==0:
-    print("Sorry, input provided is zero")
-    print("I am in ELIF block")
-    
-else:
-    print("value of a is negative")
-    print("I am inside the else block")
-
-
-
-output:
-________
-
-
-value of a is negative
-I am inside the else block
-
-
-
-
-
-a = 100
-
-
-if a > 0:
-    print("value of a is positive")
-    print("I am inside the if block")
-elif a==0:
-    print("Sorry, input provided is zero")
-    print("I am in ELIF block")
-    
-else:
-    print("value of a is negative")
-    print("I am inside the else block")
-
-
-
-output:
-_________
-
-
-value of a is positive
-I am inside the if block
-
-
-
+![Snip20230127_10](https://user-images.githubusercontent.com/93876736/215067391-e40caa1b-c775-4aef-aac0-ee48d0785551.png)
