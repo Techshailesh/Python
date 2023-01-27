@@ -1,7 +1,7 @@
                                    -----PYTHON CONDITIONAL STATEMENTS ---------
 
 
-
+**************
 Type 1 : IF
 **************
 
@@ -37,9 +37,11 @@ Explanantion:
   Now, I have changed the value of ‘a’ to -3, now ‘a’ is less than 0.
   So,the if block is not executed and only this last print statement is evaluated in the output. 
  None of the statements under if indentation got executed , because a is less then zero.
+ 
+ 
 
 
-
+*****************
 Type 2: if-else
 *****************
   
