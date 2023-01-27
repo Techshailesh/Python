@@ -1,27 +1,18 @@
-Conditionals statement:
+                                   -----PYTHON CONDITIONAL STATEMENTS ---------
 
 
 
-Type 1 : We start with the "if" keyword. Then we have a specific condition, and finally, a "colon" to mark the end of the condition.If the condition is true, Python is going to execute the block of code under the if statement.
-****************
+Type 1 : IF
+**************
 
-example 1:
+We start with the "if" keyword. Then we have a specific condition, and finally, a "colon" to mark the end of the condition.If the condition is true, Python is going to execute the block of code under the if statement.
+
+
+Example 1:
 --------------
 
-  code:
-      a=5
+  ![Snip20230127_6](https://user-images.githubusercontent.com/93876736/215062332-f9221838-2a43-4d5d-970d-2d2b2c667774.png)
 
-
-if a > 0:
-    print("value of a is positive")
-    print("I am inside the if block")
-print("I am not in the if block")
-
-
-output:
-  value of a is positive
-I am inside the if block
-I am not in the if block
 
 
 Explanation: 
@@ -35,19 +26,9 @@ Example 2:
 
 
 
- a = -3
+ ![Snip20230127_7](https://user-images.githubusercontent.com/93876736/215063042-5eacba49-6d06-4461-ac23-904bed2e5a85.png)
 
 
-if a > 0:
-    print("value of a is positive")
-    print("I am inside the if block")
-print("I am not in the if block")
-
-
-output:
--------
-
-I am not in the if block
 
 
 Explanantion: 
