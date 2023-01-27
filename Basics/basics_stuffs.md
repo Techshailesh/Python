@@ -72,3 +72,7 @@ Type 3 :  the "ELIF" ladder
 
 
 ![Snip20230127_10](https://user-images.githubusercontent.com/93876736/215067391-e40caa1b-c775-4aef-aac0-ee48d0785551.png)
+
+It checks the first condition for a greater than 0, if the condition is true, the statement under that block is executed. 
+Otherwise if the condition is false, 
+it checks the second condition and again if the condition is true, the statement under that block is executed. Even if this condition is false, the statement under the else block is executed. 
