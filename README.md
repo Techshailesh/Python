@@ -52,51 +52,17 @@ And the last line or anything below this bock will execute anyway.
 code :
 ------
 
- a=1
+ ![Snip20230127_8](https://user-images.githubusercontent.com/93876736/215066433-2896e270-e0dd-4e8a-ad28-0ea27a8c36b5.png)
 
 
-if a > 0:
-    print("value of a is positive")
-    print("I am inside the if block")
-    
-else:
-    print("value of a is negative")
-    print("I am inside the else block")
-print("I am not part of any  block, I will be excuted always")
-
-
-
-
-output:
--------
-
-
-value of a is positive
-I am inside the if block
-I am not part of any  block, I will be excuted always
 
 
 code:
 -----
 
-a=-3
+![Snip20230127_9](https://user-images.githubusercontent.com/93876736/215066811-d9d2eae7-501a-4126-a104-78d327b2cddf.png)
 
-
-if a > 0:
-    print("value of a is positive")
-    print("I am inside the if block")
-    
-else:
-    print("value of a in negative")
     print("I am inside the else block")
-print("I am not part of any  block, I will be excuted always")
-
-
-output:
-
-  value of a in negative
-I am inside the else block
-I am not part of any  block, I will be excuted always
 
 
 
