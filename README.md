@@ -43,8 +43,8 @@ Explanantion:
 Type 2: if-else
 *****************
   
-    when the condition is true, Python is going to execute the first block, and if the condition evaluates to false, it is going to run the second block. 
-    And the last line or anything below this bock will execute anyway.5
+when the condition is true, Python is going to execute the first block, and if the condition evaluates to false, it is going to run the second block. 
+And the last line or anything below this bock will execute anyway.
 
 
 code :
