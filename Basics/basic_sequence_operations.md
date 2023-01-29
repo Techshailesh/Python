@@ -69,6 +69,9 @@ So the outcome is FALSE. Likewise we did other search.
 ![Snip20230129_20](https://user-images.githubusercontent.com/93876736/215348788-752c0daa-dc8c-49f1-b8e7-064d4d5c017f.png)
 
 
+If x is equal to one of the elements in lst_container, the condition x in lst_container will evaluate to True and the code inside the if block will be executed. If x is not equal to any of the elements in lst_container, the condition will evaluate to False and the code inside the block will not be executed.
+
+
 ![Snip20230129_21](https://user-images.githubusercontent.com/93876736/215348814-2b2de2e5-1952-4f82-954e-38fba7d2f62d.png)
 
 
