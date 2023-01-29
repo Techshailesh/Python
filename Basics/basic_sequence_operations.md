@@ -50,6 +50,19 @@ Now lets compare some "LIST" types:
 ![Snip20230129_18](https://user-images.githubusercontent.com/93876736/215328107-9c6cae67-a42f-4838-a8c9-cb45ebd9a698.png)
 
 
+2) Containment (in, not in)
+-------------------------
+
+A containment test in Python checks if an element is present in a sequence. This is typically done using the 'in' and 'not in' operator.
+
+The in operator works with all sequences , such as tuples, sets, and strings.
+
+
+![Snip20230129_19](https://user-images.githubusercontent.com/93876736/215345862-cce89fcd-3a7a-4b76-805f-8ac4c052b4a8.png)
+
+Now in above example , In the firstcontainment test on string, we are trying to find ‘h’ in the name. Does it exist? No. So the outcome is FALSE.
+likewise we did other search.
+
  
 
 
