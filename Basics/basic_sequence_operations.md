@@ -88,7 +88,8 @@ So, this one does not work with the list or tuple, and you can see the same in t
 However, you will always get false. No error, no exception. But the FALSE output.
 And that's confusing if you do not know that the subsequence search only works with strings. It does not work with lists and tuples
 
-![Snip20230129_27](https://user-images.githubusercontent.com/93876736/215360591-7c29836b-1709-40fb-bc9f-c69844a5124a.png)
+![Snip20230129_28](https://user-images.githubusercontent.com/93876736/215361270-e6fbe4d8-51fe-4c48-911b-a47016e0690f.png)
+
 
 
 
