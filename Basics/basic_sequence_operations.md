@@ -83,7 +83,7 @@ If x is equal to one of the elements in lst_container, the condition x in lst_co
 ### VERY IMP POINT TO BE NOTICED #####
 
 
-However, this subsequence search is specially designed for strings. 
+This subsequence search is specially designed for strings. 
 So, this one does not work with the list or tuple, and you can see the same in the example below. I am searching for a sequence of one/two/all names in a name list. It does exist. 
 However, you will always get false. No error, no exception. But the FALSE output.
 And that's confusing if you do not know that the subsequence search only works with strings. It does not work with lists and tuples
