@@ -50,6 +50,7 @@ Now lets compare some "LIST" types:
 ![Snip20230129_18](https://user-images.githubusercontent.com/93876736/215328107-9c6cae67-a42f-4838-a8c9-cb45ebd9a698.png)
 
 
+-------------------------
 2) Containment (in, not in)
 -------------------------
 
