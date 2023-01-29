@@ -61,7 +61,7 @@ The in operator works with all sequences , such as tuples, sets, and strings.
 
 ![Snip20230129_19](https://user-images.githubusercontent.com/93876736/215345862-cce89fcd-3a7a-4b76-805f-8ac4c052b4a8.png)
 
-Now in above example , In the firstcontainment test on string, we are trying to find ‘h’ in the name. 
+Now in above example , In the first containment test on string, we are trying to find ‘h’ in the name. 
 Does it exist? No !!!
 So the outcome is FALSE. Likewise we did other search.
 
