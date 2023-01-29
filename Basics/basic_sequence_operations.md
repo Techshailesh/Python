@@ -80,6 +80,23 @@ If x is equal to one of the elements in lst_container, the condition x in lst_co
 ![Snip20230129_23](https://user-images.githubusercontent.com/93876736/215348902-6f7f9334-6802-4c71-a2f1-02c81ac7c0e6.png)
 
 
+### VERY IMP POINT TO BE NOTICED #####
+
+
+However, this subsequence search is specially designed for strings. 
+So, this one does not work with the list or tuple, and you can see the same in the example below. I am searching for a sequence of two names in a name list. 
+It does exist. However, you will always get false. No error, no exception. But the FALSE output.
+And that's confusing if you do not know that the subsequence search only works with strings. It does not work with lists and tuples
+
+
+![image](https://user-images.githubusercontent.com/93876736/215358753-65a8b000-25bd-41d8-9ba8-9780fd961c18.png)
+
+
+
+
+
+
+
  
 
 
