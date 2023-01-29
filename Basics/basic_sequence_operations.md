@@ -66,7 +66,8 @@ Does it exist? No !!!
 So the outcome is FALSE. Likewise we did other search.
 
 
-![Snip20230129_20](https://user-images.githubusercontent.com/93876736/215348788-752c0daa-dc8c-49f1-b8e7-064d4d5c017f.png)
+![Snip20230129_24](https://user-images.githubusercontent.com/93876736/215349366-9c78e00d-286a-4673-9c8b-1e1f6df13559.png)
+
 
 
 If x is equal to one of the elements in lst_container, the condition x in lst_container will evaluate to True and the code inside the if block will be executed. If x is not equal to any of the elements in lst_container, the condition will evaluate to False and the code inside the block will not be executed.
