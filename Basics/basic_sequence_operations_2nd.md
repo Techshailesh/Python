@@ -45,7 +45,9 @@ The slicing syntax follows below pattern:
 
 It means that, give me the slice of object, starting from ‘start_index’, up to the ‘stop_index’ with a given ‘step_size.’
 
-now it is not mandatory that we have to provide all clause (start/stop/increment). In the below example we have extracted just with start index and also used start.index and end.index ie [0:7] and like wise [0:16]
+now it is not mandatory that we have to provide all clause (start/stop/increment). In the below example we have extracted just with start index and also used start.index and end.index ie [0:7] and like wise [0:16].
+
+So we havnt given any increment value, so by default it is consecutive(ie next). Also remember that in 0:7 and 0:16 , we count only till 6 and 15 resoectively , not 7 and 16. refer output below and analyse :bangbang:
 
 ![Snip20230130_41](https://user-images.githubusercontent.com/93876736/215523441-df856d86-48c7-4a82-afcc-0831a81a9bdc.png)
 
