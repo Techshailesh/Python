@@ -112,6 +112,15 @@ To combine Brand and Brandlist, and the get the result as a list, we need to con
 ![Snip20230130_30](https://user-images.githubusercontent.com/93876736/215458294-111cabec-9960-4619-ba46-90d33a4266c0.png)
 
 
+Now we can also use the multiplication operator to **repeat the same sequence multiple times**. So you can see in the screenshot below, when you multiply a text string with 3, it creates a new string repeating the earlier string 3 times. And a similar thing happens with the list as well.
+
+
+However, you should also notice that the concatenation is allowed with the same type of sequences. So, I needed to change the name list to a string using the **str()** function.
+
+![Snip20230130_31](https://user-images.githubusercontent.com/93876736/215467787-9f207d52-8007-4de4-bff0-cc980d9f89a1.png)
+
+
+
 
 
 
