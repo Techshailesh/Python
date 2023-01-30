@@ -92,7 +92,7 @@ And that's confusing if you do not know that the subsequence search only works w
 
 
 --------------------------------------
-CONCATENATION SEQUENCE
+CONCATENATION AND REPETITION
 --------------------------------------
 
 
