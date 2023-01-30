@@ -91,6 +91,22 @@ And that's confusing if you do not know that the subsequence search only works w
 ![Snip20230129_28](https://user-images.githubusercontent.com/93876736/215361270-e6fbe4d8-51fe-4c48-911b-a47016e0690f.png)
 
 
+--------------------------------------
+CONCATENATION SEQUENCE
+--------------------------------------
+
+
+The next operation is the concatenation, which means combining two sequences. So, you can concatenate two sequences of the **SAMETYPE** using the "+" operator.Remember, both the sequences should be of the same type.
+
+In example 1, I am combining the string with variable which is also string , and it works as expectd
+
+![Snip20230130_29](https://user-images.githubusercontent.com/93876736/215458091-d2b85fcf-6d45-4f1a-a0de-6997f102182e.png)
+
+
+
+![Snip20230130_30](https://user-images.githubusercontent.com/93876736/215458294-111cabec-9960-4619-ba46-90d33a4266c0.png)
+
+
 
 
 
