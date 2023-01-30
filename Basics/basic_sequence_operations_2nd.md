@@ -35,6 +35,10 @@ What I mean is that , lets say I am searching for airline[-4], so length(15) min
 ![Snip20230130_40](https://user-images.githubusercontent.com/93876736/215514007-e6ae64ce-9523-459f-b027-876d9b5935a5.png)
 
 
+ :star_struck:
+ --Till now we have seen examples to extract single element, But what if we want to extract multiple elements?We also have a long-form of syntax.
+
+
 
 
 
