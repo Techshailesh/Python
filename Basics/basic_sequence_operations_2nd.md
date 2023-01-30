@@ -30,7 +30,7 @@ What I mean is that , lets say I am searching for airline[-4], so length(15) min
 ![Snip20230130_39](https://user-images.githubusercontent.com/93876736/215511426-ded8ad75-c1e7-4815-9cbb-04584c7cd33b.png)
 
 :brain:  
-      SAME LOGIC works with LIST also, below example is easy to underdstand.
+      Same logic works with LIST also, below example is easy to underdstand.
 
 ![Snip20230130_40](https://user-images.githubusercontent.com/93876736/215514007-e6ae64ce-9523-459f-b027-876d9b5935a5.png)
 
