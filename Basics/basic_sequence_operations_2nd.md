@@ -38,8 +38,14 @@ What I mean is that , lets say I am searching for airline[-4], so length(15) min
  :star_struck: Till now we have seen examples to extract single element, But what if we want to extract multiple elements? Lets proceed :point_down:
  
  
+The slicing syntax follows below pattern:
+
+![image](https://user-images.githubusercontent.com/93876736/215524189-bfa6ba2e-8e7f-4db2-b6bf-7849c80b3996.png)
 
 
+It means that, give me the slice of object, starting from ‘start_index’, up to the ‘stop_index’ with a given ‘step_size.’
+
+![Snip20230130_41](https://user-images.githubusercontent.com/93876736/215523441-df856d86-48c7-4a82-afcc-0831a81a9bdc.png)
 
 
 
