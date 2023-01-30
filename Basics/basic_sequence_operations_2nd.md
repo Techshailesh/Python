@@ -25,4 +25,10 @@ What I mean is that , lets say I am searching for airline[-4], so length(15) min
 
 
 
+:eye: Imp point to be considered is that we cannot cross index boundary , if we try to search anything beyond index limit we will be getting error
+
+![Snip20230130_39](https://user-images.githubusercontent.com/93876736/215511426-ded8ad75-c1e7-4815-9cbb-04584c7cd33b.png)
+
+
+
 
