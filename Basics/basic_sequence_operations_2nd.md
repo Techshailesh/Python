@@ -20,6 +20,9 @@ In below exmaple we can see it is extracting in reverse index location , reverse
 
 ![Snip20230130_35](https://user-images.githubusercontent.com/93876736/215505730-c75d81bb-e13d-4991-8bb5-2cfb29fe30c1.png)
 
+The other way to understand reverse indexing can be that just minus the desired index position with the length. 
+What I mean is that , lets say I am searching for airline[-4], so length(15) minus -4 =11 , so if we count from 0 till 11 , we get same result(which is w) 
+
 
 
 
