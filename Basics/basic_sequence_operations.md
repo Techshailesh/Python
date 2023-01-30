@@ -103,8 +103,10 @@ In example 1, I am combining the string with variable which is also string , and
 ![Snip20230130_29](https://user-images.githubusercontent.com/93876736/215458091-d2b85fcf-6d45-4f1a-a0de-6997f102182e.png)
 
 
-Now , in next example when we try to combine "LIST" objects with "STRING" , it doesn't allow.
-That's not allowed. You can combine two objects of the same type.They are not the same. 
+Now , in next example when we try to combine "LIST" (BrandList) objects with "STRING" (Brand) , it doesn't allow. 
+That's not allowed. You can combine two objects of the same type. They are not the same 
+
+To combine Brand and Brandlist, and the get the result as a list, we need to convert the str object name to a list by placing **square brackets[]** at either end, as shown below.
 
 
 ![Snip20230130_30](https://user-images.githubusercontent.com/93876736/215458294-111cabec-9960-4619-ba46-90d33a4266c0.png)
