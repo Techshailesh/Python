@@ -45,6 +45,8 @@ The slicing syntax follows below pattern:
 
 It means that, give me the slice of object, starting from ‘start_index’, up to the ‘stop_index’ with a given ‘step_size.’
 
+now it is not mandatory that we have to provide all clause (start/stop/increment). In the below example we have extracted just with start index and also used start.index and end.index ie [0:7] and like wise [0:16]
+
 ![Snip20230130_41](https://user-images.githubusercontent.com/93876736/215523441-df856d86-48c7-4a82-afcc-0831a81a9bdc.png)
 
 
