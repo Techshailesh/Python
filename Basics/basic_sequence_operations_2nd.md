@@ -1,8 +1,8 @@
 :beers: Lets start with new topic :beers:
 
--------------------------------
+------------------------------------------------------
 :fork_and_knife:Element extraction and Slicing :knife:
--------------------------------
+-------------------------------------------------------
 
 What does it mean? That means we want to extract one or more elements from the sequence using "INDEXING"
 
