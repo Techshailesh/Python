@@ -117,7 +117,8 @@ Now we can also use the multiplication operator to **repeat the same sequence mu
 
 However, you should also notice that the concatenation is allowed with the same type of sequences. So, I needed to change the name list to a string using the **str()** function.
 
-![Snip20230130_32](https://user-images.githubusercontent.com/93876736/215468845-810ba841-1963-4c39-bc29-ec87c5f0b745.png)
+![Snip20230130_33](https://user-images.githubusercontent.com/93876736/215469356-e7b53e49-e405-4801-be01-ca305a60fbe2.png)
+
 
 
 
