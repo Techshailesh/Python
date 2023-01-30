@@ -53,5 +53,10 @@ So we havnt given any increment value, so by default it is consecutive(ie next).
 
 ![Snip20230130_41](https://user-images.githubusercontent.com/93876736/215523441-df856d86-48c7-4a82-afcc-0831a81a9bdc.png)
 
+Similar logic applies for LIST also , some examples below 
+
+![Snip20230130_42](https://user-images.githubusercontent.com/93876736/215531251-6baa19af-c9e8-4567-92b6-988e462ab98c.png)
+
+
 
 
