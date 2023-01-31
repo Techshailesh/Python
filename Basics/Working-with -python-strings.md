@@ -43,7 +43,7 @@ We can also add a new line or some extra spaces in the string using the escape c
 #################################################################################################################################
 
 -----------------
-STRING FUNCTIONS
+2- STRING FUNCTIONS
 -----------------
 
 1) Split function-
