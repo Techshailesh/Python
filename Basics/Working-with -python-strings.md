@@ -75,6 +75,9 @@ Lets check anther scenario below.
 ![Snip20230131_7](https://user-images.githubusercontent.com/93876736/215761912-4ad83238-47da-465f-baa2-f8702e0afe15.png)
 
 
+In the example above, I added consecutive whitespaces between the word love and the word coding. When this is the case, the .split() method treats any consecutive spaces as if they are one single whitespace.
+
+
 
 
 
