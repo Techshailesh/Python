@@ -106,6 +106,14 @@ Below examples are self explanatory and straigh forward
  
  
  ![Snip20230131_12](https://user-images.githubusercontent.com/93876736/215774226-012417e0-3865-4ca0-a5b2-3d87dd3bead2.png)
+ 
+ 
+ 4) STRIP FUNCTION -
+
+basically it returns a copy of the string with both leading and trailing characters removed (based on the string argument passed). 
+ 
+ ![Snip20230131_14](https://user-images.githubusercontent.com/93876736/215803717-87a8fd4f-5024-4409-92bc-9d68535bd4ef.png)
+
 
  
 
