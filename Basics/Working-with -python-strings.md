@@ -66,5 +66,9 @@ The general syntax for the .split() method looks something like the following:
 
 When you don't pass either of the two arguments that the .split() method accepts, then by default, it will split the string every time it encounters whitespace until the string comes to an end.
 
-Now when we check the type of object the original type is STR and the splitted type is LIST
+Now when we check the type of object the original type is STR and the splitted type is LIST.
+
+So primarly thats the whole purpose.
+
+
 
