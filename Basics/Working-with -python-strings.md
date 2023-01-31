@@ -114,6 +114,19 @@ basically it returns a copy of the string with both leading and trailing charact
 We can also  strip the string from the right or the left end(refer documentation or example)
  
  ![Snip20230131_14](https://user-images.githubusercontent.com/93876736/215803717-87a8fd4f-5024-4409-92bc-9d68535bd4ef.png)
+ 
+ ---------------------
+ 3 -STRING FORMATTING
+----------------------
+
+While working with strings, we often need to concat strings with variables. Here is an example for the same.This is a common scenario where you have some values, and you want to concatenate them to format it as a meaningful string. 
+
+There are other ways also , but in example I have used specific to PYTHON 3
+
+
+![Snip20230131_15](https://user-images.githubusercontent.com/93876736/215807605-e7274fbf-6065-47a0-896e-626e96a11f90.png)
+
+
 
 
  
