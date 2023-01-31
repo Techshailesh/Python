@@ -54,5 +54,16 @@ The general syntax for the .split() method looks something like the following:
 **string.split(separator, maxsplit)**
 
 
+-string is the string you want to split. This is the string on which you call the .split() method.
+-The .split() method accepts two arguments. (optional)
 
+
+
+
+
+![Snip20230131_6](https://user-images.githubusercontent.com/93876736/215760231-1cf5e7e4-a89c-47c5-a6fa-4548740fafae.png)
+
+
+When you don't pass either of the two arguments that the .split() method accepts, then by default, it will split the string every time it encounters whitespace until the string comes to an end.
+Now when we check the type of object the original type is STR and the splitted type is LIST
 
