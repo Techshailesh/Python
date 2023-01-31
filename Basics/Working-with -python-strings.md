@@ -1,17 +1,23 @@
 Lets learm some string functionalities:
 
+-------------------------------------------
 1.String Literals
-2.String Functions
-3.String Formatting
+-------------------------------------------
 
 we can create a string literal using single or double-quotes. Why do we have two options? 
 This flexibility helps us to create strings that contain a single quote or double quote within the string literal. 
 
+In quote 1 , we can see that I have used '' literal and within that tried to include " " , it accepted.
+but in quote 2 , when i have used " " and again tried to include " " , it not accepted. 
+likewise in other example
+
 ![Snip20230131_2](https://user-images.githubusercontent.com/93876736/215753667-abda3fa1-7189-42e3-88a8-e795e095766c.png)
 
 
-Now in quote 1 , we can see that I have used '' literal and within that tried to include " " , it accepted.
-but in quote 2 , when i have used " " and again tried to include " " , it not accepted. 
-likewise in other example
+
+
+we also have triple quotes. You can use either three single quotes or three double-quotes to create multi-line strings. Here is an example shown 
+
+![Snip20230131_3](https://user-images.githubusercontent.com/93876736/215755766-8f1c2de7-77a9-46cd-ac0f-039ae3cd1034.png)
 
 
