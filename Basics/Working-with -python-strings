@@ -7,3 +7,4 @@ Lets learm some string functionalities:
 we can create a string literal using single or double-quotes. Why do we have two options? 
 This flexibility helps us to create strings that contain a single quote or double quote within the string literal. 
 
+
