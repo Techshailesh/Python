@@ -40,5 +40,19 @@ We can also add a new line or some extra spaces in the string using the escape c
 
 ![Snip20230131_5](https://user-images.githubusercontent.com/93876736/215758255-cfd8ccfc-596f-4fb4-9247-bff743093a55.png)
 
+#################################################################################################################################
+
+-----------------
+STRING FUNCTIONS
+-----------------
+
+1) Split function-
+   You use the .split() method for splitting a **string** into a **list**.
+
+The general syntax for the .split() method looks something like the following:
+
+**string.split(separator, maxsplit)**
+
+
 
 
