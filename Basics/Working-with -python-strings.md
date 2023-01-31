@@ -70,5 +70,13 @@ Now when we check the type of object the original type is STR and the splitted t
 
 So primarly thats the whole purpose.
 
+Lets check anther scenario below.
+
+![Snip20230131_7](https://user-images.githubusercontent.com/93876736/215761912-4ad83238-47da-465f-baa2-f8702e0afe15.png)
+
+
+
+
+
 
 
