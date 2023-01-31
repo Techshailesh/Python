@@ -77,6 +77,15 @@ Lets check anther scenario below.
 
 In the example above, I added consecutive whitespaces between the word love and the word coding. When this is the case, the .split() method treats any consecutive spaces as if they are one single whitespace.
 
+Now lets try to add separator clause in the spli function formula:
+
+The separator will break and divide the string whenever it encounters the character you specify and will return a list of substrings.
+
+For example, you could make it so that a string splits whenever the .split() method encounters a dot, .
+
+![Snip20230131_10](https://user-images.githubusercontent.com/93876736/215763542-d22ba6cd-8a13-4951-808b-9c7d3a0ab85e.png)
+
+
 
 
 
