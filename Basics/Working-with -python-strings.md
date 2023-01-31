@@ -24,7 +24,7 @@ we also have triple quotes. You can use either three single quotes or three doub
 ![Snip20230131_3](https://user-images.githubusercontent.com/93876736/215755766-8f1c2de7-77a9-46cd-ac0f-039ae3cd1034.png)
 
 
-**Using / to include special characters in literals**
+** Using backslash(/) to include special characters in literals **
 
 We can also use a backslash to escape special characters in a Python string. Here is an escaping example shown below. We have escaped the single quotes using the backslash character. 
 What if we don't use the backslash character? Well, it will give me an error saying invalid syntax. It is because the string ended here, so it doesn't understand the remaining part of the string.
@@ -34,7 +34,7 @@ What if we don't use the backslash character? Well, it will give me an error say
 ![Snip20230131_4](https://user-images.githubusercontent.com/93876736/215756439-c976035a-2916-457d-b69d-72dd6be0ed83.png)
 
 
-** Adding new line using /n **
+** Adding new line using \n **
 
 We can also add a new line or some extra spaces in the string using the escape character as shown below
 
