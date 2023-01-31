@@ -93,6 +93,23 @@ This is just precisley opposite of Split functions . Here, you provide a list as
 ![Snip20230131_11](https://user-images.githubusercontent.com/93876736/215766366-7ed1ff66-44d4-4d1f-98ce-bba0eb3a4f71.png)
 
 
+3) REPLACE FUNCTION -
+
+ Using replace function , as name suggest we can replace specific  character with new one or whole string of text. 
+ Imp point is that Strng is immutable , so this will always store in new string.
+ 
+ The standard syntax looks like as below-
+
+string.replace(old_text, new_text, count)
+
+Below examples are self explanatory and straigh forward 
+ 
+ 
+ ![Snip20230131_12](https://user-images.githubusercontent.com/93876736/215774226-012417e0-3865-4ca0-a5b2-3d87dd3bead2.png)
+
+ 
+
+
 
 
 
