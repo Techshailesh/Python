@@ -26,7 +26,7 @@ we also have triple quotes. You can use either three single quotes or three doub
 
 
 We can also use a backslash to escape special characters in a Python string. Here is an escaping example shown below. We have escaped the single quotes using the backslash character. 
-If we dont provide backslash ,it will error out.
+What if we don't use the backslash character? Well, it will give me an error saying invalid syntax. It is because the string ended here, so it doesn't understand the remaining part of the string.
 
 
 
