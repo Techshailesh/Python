@@ -93,7 +93,7 @@ This is just precisley opposite of Split functions . Here, you provide a list as
 ![Snip20230131_11](https://user-images.githubusercontent.com/93876736/215766366-7ed1ff66-44d4-4d1f-98ce-bba0eb3a4f71.png)
 
 
-3) REPLACE FUNCTION -
+3) REPLACE FUNCTION - (case sensitive , however case sensitive can be overruled with some advancement)
 
  Using replace function , as name suggest we can replace specific  character with new one or whole string of text. 
  Imp point is that Strng is immutable , so this will always store in new string.
