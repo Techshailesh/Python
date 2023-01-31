@@ -111,6 +111,7 @@ Below examples are self explanatory and straigh forward
  4) STRIP FUNCTION -
 
 basically it returns a copy of the string with both leading and trailing characters removed (based on the string argument passed). 
+We can also  strip the string from the right or the left end(refer documentation or example)
  
  ![Snip20230131_14](https://user-images.githubusercontent.com/93876736/215803717-87a8fd4f-5024-4409-92bc-9d68535bd4ef.png)
 
