@@ -115,6 +115,15 @@ We can also  strip the string from the right or the left end(refer documentation
  
  ![Snip20230131_14](https://user-images.githubusercontent.com/93876736/215803717-87a8fd4f-5024-4409-92bc-9d68535bd4ef.png)
  
+ 
+ 5) LENGTH FUNCTION -
+  
+  The length function returns the total number of characters in the string, including whitespaces
+  
+  ![Snip20230131_17](https://user-images.githubusercontent.com/93876736/215810076-63306977-bdb1-4fad-8a35-b8dcad4a5fcb.png)
+
+
+ 
  ---------------------
  3 -STRING FORMATTING
 ----------------------
