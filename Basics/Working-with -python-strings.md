@@ -88,7 +88,10 @@ For example, you could make it so that a string splits whenever the .split() met
 
 2) JOIN FUNCTION-
 
-This is just precisley opposite of Split functions . Here, you provide a list as an input and get a string as an output.9
+This is just precisley opposite of Split functions . Here, you provide a list as an input and get a string as an output.
+
+![Snip20230131_11](https://user-images.githubusercontent.com/93876736/215766366-7ed1ff66-44d4-4d1f-98ce-bba0eb3a4f71.png)
+
 
 
 
