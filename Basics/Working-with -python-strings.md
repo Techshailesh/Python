@@ -46,8 +46,9 @@ We can also add a new line or some extra spaces in the string using the escape c
 2- STRING FUNCTIONS
 -----------------
 
-1) Split function-
-   You use the .split() method for splitting a **string** into a **list**.
+1) SPLIT FUNCTION
+
+   You use the .split() method for splitting a **string** into a **list**. The primary goal is to splitting a string and getting into a list
 
 The general syntax for the .split() method looks something like the following:
 
@@ -84,6 +85,12 @@ The separator will break and divide the string whenever it encounters the charac
 For example, you could make it so that a string splits whenever the .split() method encounters a dot, .
 
 ![Snip20230131_10](https://user-images.githubusercontent.com/93876736/215763542-d22ba6cd-8a13-4951-808b-9c7d3a0ab85e.png)
+
+2) JOIN FUNCTION-
+
+This is just precisley opposite of Split functions . Here, you provide a list as an input and get a string as an output.9
+
+
 
 
 
