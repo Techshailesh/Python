@@ -4,6 +4,9 @@ Lets learm some string functionalities:
 1.String Literals
 -------------------------------------------
 
+what does STRING LITERALs mean ??? 
+A string literal can be created by writing a text(a group of Characters ) surrounded by a single(”), double(“”), or triple quotes.  By using triple quotes we can write multi-line strings or display them in the desired way. 
+
 we can create a string literal using single or double-quotes. Why do we have two options? 
 This flexibility helps us to create strings that contain a single quote or double quote within the string literal. 
 
