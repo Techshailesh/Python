@@ -18,6 +18,16 @@ Notice that if we pass negative number , sequence is blank . Samething will happ
 ![Snip20230210_23](https://user-images.githubusercontent.com/93876736/218180522-3098d393-71b4-4e35-a7ff-f8e42d18a7b3.png)
 
 
+==TYPE 3 ====
 
+
+
+
+===range() in FOR LOOP ===
+
+The range() function is commonly used in a for loop to iterate the loop a certain number of times. For example,
+
+
+![Snip20230210_25](https://user-images.githubusercontent.com/93876736/218183626-391bebd2-dcd8-4e46-a126-e2c0102a33d2.png)
 
 
