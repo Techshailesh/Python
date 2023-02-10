@@ -1,4 +1,4 @@
-                           :lock_with_ink_pen:Working with list and tuples:lock_with_ink_pen:
+                           :bulb:Working with list and tuples:bulb:
 
 A tuple is a collection of Python objects separated by commas, which is similar to a List. The most crucial difference between the two of them is the mutability. 
 
