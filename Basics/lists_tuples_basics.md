@@ -1,4 +1,5 @@
-                           :bulb: Working with list and tuples
+                           :bulb: 
+                           Working with list and tuples
 
 A tuple is a collection of Python objects separated by commas, which is similar to a List. The most crucial difference between the two of them is the mutability. 
 
