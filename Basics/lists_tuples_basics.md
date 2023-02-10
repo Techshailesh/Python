@@ -3,10 +3,10 @@
 A tuple is a collection of Python objects separated by commas, which is similar to a List. The most crucial difference between the two of them is the mutability. 
 
 
-:white_check_mark: list is a mutable object.
+:white_check_mark: list is a mutable object. We enclose lists in square brackets [].
 
-:negative_squared_cross_mark: A tuple is immutable
+:negative_squared_cross_mark: A tuple is immutable. We enclose tuples in parentheses().
 
-We enclose tuples in parentheses(), and lists in square brackets []. The elements inside a list or a tuple can be of a heterogenous type, which means you can mix different types of objects 
+*The elements inside a list or a tuple can be of a heterogenous type, which means you can mix different types of objects 
 
 
