@@ -20,6 +20,9 @@ Notice that if we pass negative number , sequence is blank . Samething will happ
 
 ==TYPE 3 ====
 
+![Snip20230210_23](https://user-images.githubusercontent.com/93876736/218183728-b9792af2-758b-47f6-a283-821adf15d45c.png)
+
+
 
 
 
