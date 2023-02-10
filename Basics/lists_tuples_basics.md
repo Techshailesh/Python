@@ -7,4 +7,6 @@ A tuple is a collection of Python objects separated by commas, which is similar 
 
 :negative_squared_cross_mark: A tuple is immutable
 
+We enclose tuples in parentheses, and lists in square brackets. The elements inside a list or a tuple can be of a heterogenous type, which means you can mix different types of objects 
+
 
