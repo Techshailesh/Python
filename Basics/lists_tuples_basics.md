@@ -26,3 +26,7 @@ A tuple is a collection of Python objects separated by commas, which is similar 
 
 ![Snip20230210_19](https://user-images.githubusercontent.com/93876736/218107361-f9e81372-374d-4e77-8651-cfab761a24c5.png)
 
+
+:bangbang:  But it doesn't mean that we cannot change the Tuple. Using sequence operations such as slicing, concatenating, and extracting elements . All those operations apply to tuples. However, all of them will give you a new Tuple.
+
+
