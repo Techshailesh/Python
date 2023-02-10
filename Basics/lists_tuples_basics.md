@@ -11,3 +11,12 @@ A tuple is a collection of Python objects separated by commas, which is similar 
 
 
 ![Snip20230210_14](https://user-images.githubusercontent.com/93876736/218103608-e20fc0a2-55f1-40d8-8596-84b4ef11dcf2.png)
+
+
+-- Lets do mutability test ---
+
+
+
+
+![Snip20230210_19](https://user-images.githubusercontent.com/93876736/218107361-f9e81372-374d-4e77-8651-cfab761a24c5.png)
+
