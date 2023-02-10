@@ -13,6 +13,11 @@ In this case, range() returns a sequence of numbers starting from 0 up to the nu
 Notice that if we pass negative number , sequence is blank . Samething will happen if we pass 0.
 
 
+===TYPE 2 ===
+
+![Snip20230210_23](https://user-images.githubusercontent.com/93876736/218180522-3098d393-71b4-4e35-a7ff-f8e42d18a7b3.png)
+
+
 
 
 
