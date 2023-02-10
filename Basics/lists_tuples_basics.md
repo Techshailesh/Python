@@ -16,9 +16,13 @@ A tuple is a collection of Python objects separated by commas, which is similar 
 -- Lets do mutability test ---
 
 
+ :white_check_mark:  We can see that when we tried to add value in list , it succeded . 
+
+:x: But it failed in Tuple , refer example below
+
+
+
 
 
 ![Snip20230210_19](https://user-images.githubusercontent.com/93876736/218107361-f9e81372-374d-4e77-8651-cfab761a24c5.png)
 
-We can see that when we tried to add value in list , it succeded . 
-But it failed in Tuple , refer example below
