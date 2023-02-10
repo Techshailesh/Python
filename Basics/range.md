@@ -10,5 +10,9 @@ In this case, range() returns a sequence of numbers starting from 0 up to the nu
 
 ![Snip20230210_22](https://user-images.githubusercontent.com/93876736/218179805-4b67765d-94d1-43ab-9afc-945432b162f2.png)
 
+Notice that if we pass negative number , sequence is blank . Samething will happen if we pass 0.
+
+
+
 
 
