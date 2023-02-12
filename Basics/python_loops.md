@@ -23,6 +23,10 @@ Assume we have a list of tuples. Each tuple pair represents a length and breadth
 
 ![Snip20230212_30](https://user-images.githubusercontent.com/93876736/218333530-02636586-ea8d-4bdc-ac0c-3656470fe4ff.png)
 
+Basic example using STRING
+
+![Snip20230212_32](https://user-images.githubusercontent.com/93876736/218333711-19368ebc-3dad-49e5-9587-d7f1aceb64b3.png)
+
 
 
 
