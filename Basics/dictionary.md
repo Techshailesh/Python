@@ -37,3 +37,15 @@ The values in dictionary items can be of any data type:
 
 ![Snip20230213_35](https://user-images.githubusercontent.com/93876736/218464023-5b43165e-c0bd-4ea4-be05-4913bc958051.png)
 
+
+
+How to access KEYS in dictionary: ????
+
+NOTE: indexing doesnt work in dictionary unlike list,tuples.
+
+![Snip20230213_36](https://user-images.githubusercontent.com/93876736/218468578-c31b194e-4ae7-4e32-8a44-70a8b0c7a2a2.png)
+
+
+
+
+
