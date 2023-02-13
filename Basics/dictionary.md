@@ -82,7 +82,8 @@ The argument must be a dictionary, or an iterable object with key:value pairs.
 
 ### Merging dictionary ###
 
-![Snip20230213_42](https://user-images.githubusercontent.com/93876736/218507953-e291d152-05b9-46b2-912e-1500d014eb87.png)
+![Snip20230213_43](https://user-images.githubusercontent.com/93876736/218508134-74f657b5-b2e6-4e90-bddf-71eb32d054ff.png)
+
 
 
 
