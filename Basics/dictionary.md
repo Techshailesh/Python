@@ -82,6 +82,8 @@ The argument must be a dictionary, or an iterable object with key:value pairs.
 
 ### Merging dictionary ###
 
+We merge dictionary using  "double asterisk" . if they both have duplicate key , then currwnt value will be captured.
+
 ![Snip20230213_43](https://user-images.githubusercontent.com/93876736/218508134-74f657b5-b2e6-4e90-bddf-71eb32d054ff.png)
 
 
