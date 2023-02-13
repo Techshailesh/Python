@@ -87,6 +87,34 @@ We merge dictionary using  "double asterisk" . if they both have duplicate key ,
 ![Snip20230213_43](https://user-images.githubusercontent.com/93876736/218508134-74f657b5-b2e6-4e90-bddf-71eb32d054ff.png)
 
 
+Some common used operations in dictionary (refer document) :
+
+len()
+clear()
+del()
+pop()
+== operator is used to compare two dictinoary
+copy()
+
+
+** Membership testing in Dictionary
+
+![Snip20230213_44](https://user-images.githubusercontent.com/93876736/218519505-1fe08ab9-fd19-40ad-9a43-35224d49207e.png)
+
+
+
+*** Dictionary comprehension **** 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
