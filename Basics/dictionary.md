@@ -47,6 +47,12 @@ NOTE: indexing doesnt work in dictionary unlike list,tuples.
 
 
 
+Some built in fucntion to access dictionary:
+
+![Snip20230213_40](https://user-images.githubusercontent.com/93876736/218481044-d8a6bc33-12e6-42ca-b9ba-59027b03d1f4.png)
+
+
+
 ** Mutability examples ***
 
 Add values:
@@ -75,7 +81,6 @@ The argument must be a dictionary, or an iterable object with key:value pairs.
 
 
 
-![Snip20230213_40](https://user-images.githubusercontent.com/93876736/218481044-d8a6bc33-12e6-42ca-b9ba-59027b03d1f4.png)
 
 
 
