@@ -108,7 +108,7 @@ copy()
 Dictionary Comprehension can be super helpful in creating new dictionaries from existing dictionaries and iterables.
 
 
-![Snip20230213_46](https://user-images.githubusercontent.com/93876736/218528116-282c755a-dc90-474d-9772-50ab8d49dc0a.png)
+![Snip20230213_49](https://user-images.githubusercontent.com/93876736/218529257-53ad710f-5e5f-4f38-afc0-d1078637969e.png)
 
 
 Using Dictionary Comprehension
