@@ -47,5 +47,31 @@ NOTE: indexing doesnt work in dictionary unlike list,tuples.
 
 
 
+** Mutability examples ***
+
+Add values:
+
+Add Elements to a Python Dictionary
+We can add elements to a dictionary using the name of the dictionary with []. For example,
+
+
+![Snip20230213_37](https://user-images.githubusercontent.com/93876736/218472404-009a554d-e70a-4630-9da1-c651e3c5b7b7.png)
+
+
+
+Change value in dictionary :
+
+![Snip20230213_38](https://user-images.githubusercontent.com/93876736/218473122-280c0393-a2be-4dd0-9dba-2aa0244cf9d0.png)
+
+
+
+Update Dictionary
+The update() method will update the dictionary with the items from the given argument.
+
+The argument must be a dictionary, or an iterable object with key:value pairs.
+
+![image](https://user-images.githubusercontent.com/93876736/218476018-27b3f0a6-cf43-4404-b55a-c074400dae78.png)
+
+
 
 
