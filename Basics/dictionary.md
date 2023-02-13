@@ -119,6 +119,14 @@ The minimal syntax for dictionary comprehension is:
 ![Snip20230213_47](https://user-images.githubusercontent.com/93876736/218528434-f6e45da9-dce5-45c8-a3e8-8e0bccdddbad.png)
 
 
+Now, let's see how we can use dictionary comprehension using data from another dictionary.
+
+![Snip20230213_50](https://user-images.githubusercontent.com/93876736/218585242-b438ab01-ec36-465a-8654-7e7e7750b953.png)
+
+
+We can have addiotnal conditions also in iteration , refer to google exammples.
+
+
 
 
 
