@@ -28,3 +28,12 @@ Dictionaries are changeable, meaning that we can change, add or remove items aft
 Duplicates Not Allowed
 
 ![Snip20230213_34](https://user-images.githubusercontent.com/93876736/218463155-a9f13fb5-62aa-404a-b041-bfac7877a9ad.png)
+
+
+Dictionary Items - Data Types
+
+The values in dictionary items can be of any data type:
+
+
+![Snip20230213_35](https://user-images.githubusercontent.com/93876736/218464023-5b43165e-c0bd-4ea4-be05-4913bc958051.png)
+
