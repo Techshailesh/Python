@@ -105,6 +105,20 @@ copy()
 
 *** Dictionary comprehension **** 
 
+Dictionary Comprehension can be super helpful in creating new dictionaries from existing dictionaries and iterables.
+
+
+![Snip20230213_46](https://user-images.githubusercontent.com/93876736/218528116-282c755a-dc90-474d-9772-50ab8d49dc0a.png)
+
+
+Using Dictionary Comprehension
+From the above example, we can see that dictionary comprehension should be written in a specific pattern.
+
+The minimal syntax for dictionary comprehension is:
+
+![Snip20230213_47](https://user-images.githubusercontent.com/93876736/218528434-f6e45da9-dce5-45c8-a3e8-8e0bccdddbad.png)
+
+
 
 
 
