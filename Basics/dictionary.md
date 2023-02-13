@@ -53,7 +53,7 @@ Some built in fucntion to access dictionary:
 
 
 
-** Mutability examples ***
+### Mutability examples  ####
 
 Add values:
 
@@ -78,6 +78,16 @@ The update() method will update the dictionary with the items from the given arg
 The argument must be a dictionary, or an iterable object with key:value pairs.
 
 ![image](https://user-images.githubusercontent.com/93876736/218476018-27b3f0a6-cf43-4404-b55a-c074400dae78.png)
+
+
+### Merging dictionary ###
+
+
+![Snip20230213_41](https://user-images.githubusercontent.com/93876736/218507528-f2dc072e-0e35-4503-92b9-4ecb67c465b4.png)
+
+
+
+
 
 
 
