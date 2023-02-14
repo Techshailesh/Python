@@ -93,9 +93,17 @@ Creating empty set is bit tricky beacuse if we use {} python will take it as Dic
 
 Union of Two Sets:
 
-The union of two sets A and B include all the elements of set A and B.
+1) The union of two sets A and B include all the elements of set A and B.
 
 ![Snip20230214_67](https://user-images.githubusercontent.com/93876736/218743850-dd522a76-d950-45cf-b597-23b2bb860a01.png)
+
+
+2) Set Intersection
+The intersection of two sets A and B include the common elements between set A and B.
+
+![Snip20230214_68](https://user-images.githubusercontent.com/93876736/218744386-c863c495-4789-4f34-a797-3ea919ea4824.png)
+
+
 
  
  
