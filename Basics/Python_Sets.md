@@ -75,11 +75,17 @@ Creating empty set is bit tricky beacuse if we use {} python will take it as Dic
  
  
  
- Update()
+ --Update()
 
 ![Snip20230214_62](https://user-images.githubusercontent.com/93876736/218736130-cda3ce67-47c5-47a4-88a2-54f55854254e.png)
 
 ![Snip20230214_64](https://user-images.githubusercontent.com/93876736/218736866-33a8e052-a4de-44c5-ae7f-4a3803f7ea2d.png)
+
+--Remove iteam from set:
+
+
+![Snip20230214_66](https://user-images.githubusercontent.com/93876736/218740597-7a0f57b6-91f7-4450-b852-89e23fc129a6.png)
+
 
 
 
