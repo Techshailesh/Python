@@ -145,7 +145,7 @@ Containment test in set :
 
 Element extraction in SET:
 
-All that element extraction and slicing that we learned in the earlier videos will not apply to set. 
+All that element extraction and slicing that we learned in the earlier data types will not apply to SET. 
 
 Why? Because the sets do not have an index.
 
