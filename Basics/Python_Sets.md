@@ -17,6 +17,9 @@ Dictionary is a collection which is ordered** and changeable. No duplicate membe
 What is SET in python ??
 
 Sets is used to store multiple items in single variable.
+
+**Set values are immutable which means we cannot alter the values after their creation **
+
 Set is unordered, unchanged and unindexed.
 
 
