@@ -35,5 +35,10 @@ basic example of set :
  DUPLICATES NOT ALLOWED
  
  ![Snip20230214_53](https://user-images.githubusercontent.com/93876736/218711292-28fca05b-1bfe-49a1-939e-5c072eaddb0b.png)
+ 
+ Removing duplicates from List and tuple:
+
+![Snip20230214_55](https://user-images.githubusercontent.com/93876736/218715854-c6830846-dec1-4366-a2a3-be66a94d3bfd.png)
+
 
 
