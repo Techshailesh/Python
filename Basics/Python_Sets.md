@@ -72,6 +72,14 @@ Creating empty set is bit tricky beacuse if we use {} python will take it as Dic
  So you can add an element in an existing set. However, the add() method allows you to add a single element at a time.
  
  ![Snip20230214_61](https://user-images.githubusercontent.com/93876736/218733860-faef5ff0-cdb9-43d5-a5b2-8e4ea489cc27.png)
+ 
+ 
+ 
+ Update()
+
+![Snip20230214_62](https://user-images.githubusercontent.com/93876736/218736130-cda3ce67-47c5-47a4-88a2-54f55854254e.png)
+
+
 
  
  
