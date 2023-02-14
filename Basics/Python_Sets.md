@@ -120,6 +120,13 @@ The symmetric difference between two sets A and B includes all elements of A and
 ![Snip20230214_70](https://user-images.githubusercontent.com/93876736/218746323-c1bb6253-88e1-483a-818e-18bcb20f666e.png)
 
 
+Check if two sets are equal:
+
+We can use the == operator to check whether two sets are equal or not. For example,
+
+![Snip20230214_71](https://user-images.githubusercontent.com/93876736/218749252-52d6779b-d0c9-41b1-bf20-5ee95d3f92a7.png)
+
+
 
  
  
