@@ -142,6 +142,23 @@ Containment test in set :
 
 
 ## So when you are using Python sets in your program, think of them as a mathematical set and look for the methods to get things done.Most likely, you will find a function or a method to achieve your goal.##
+
+Element extraction in SET:
+
+All that element extraction and slicing that we learned in the earlier videos will not apply to set. 
+
+Why? Because the sets do not have an index.
+
+![Snip20230214_74](https://user-images.githubusercontent.com/93876736/218774315-9797dbb1-d949-449b-b523-b870dfddaf75.png)
+
+
+
+Then how do we access the elements of a set? Well, you must loop through it. You should notice the order of elements. It comes like jumbled. This happens because sets are an unordered collection of unique elements. And they do not have an index. 
+
+
+![Snip20230214_75](https://user-images.githubusercontent.com/93876736/218774530-83768d9c-74d3-4d3a-971a-b13db1bd1e0d.png)
+
+
  
 
 
