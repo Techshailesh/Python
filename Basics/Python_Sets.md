@@ -58,3 +58,10 @@ Creating empty set is bit tricky beacuse if we use {} python will take it as Dic
 
 ![Snip20230214_56](https://user-images.githubusercontent.com/93876736/218719189-fa529306-db0e-4a38-a25c-bd4ebc1d7443.png)
 
+
+
+** len() function: To determine how many items a set has.
+   
+   ![Snip20230214_60](https://user-images.githubusercontent.com/93876736/218730786-9011b3a3-6609-4bca-b460-4847be0a9282.png)
+
+
