@@ -105,6 +105,15 @@ The intersection of two sets A and B include the common elements between set A a
 ![Snip20230214_68](https://user-images.githubusercontent.com/93876736/218744386-c863c495-4789-4f34-a797-3ea919ea4824.png)
 
 
+3) Difference between Two Sets:
+
+The difference between two sets A and B include elements of set A that are not present on set B.
+
+![Snip20230214_69](https://user-images.githubusercontent.com/93876736/218745497-57cb62a5-321b-47b9-b13f-0356f8e7d57d.png)
+
+
+4) 
+
 
  
  
