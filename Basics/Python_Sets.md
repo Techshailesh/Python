@@ -20,7 +20,8 @@ Sets is used to store multiple items in single variable.
 Set is unordered, unchanged and unindexed.
 
 
-Sets are written with curly brackets.
+Sets are written with curly braces {}. Now we have seen this {} in dictionary, dictionary holds key:value pairs , however sets hold collection of unique elements only.
+
 
 basic example of set :
 
@@ -29,3 +30,10 @@ basic example of set :
  --But a set cannot have mutable elements like lists, sets or dictionaries as its elements.
  
  ![Snip20230214_51](https://user-images.githubusercontent.com/93876736/218708307-f7c0bd79-c296-417f-a08e-abaa858a70da.png)
+ 
+ 
+ DUPLICATES NOT ALLOWED
+ 
+ ![Snip20230214_53](https://user-images.githubusercontent.com/93876736/218711292-28fca05b-1bfe-49a1-939e-5c072eaddb0b.png)
+
+
