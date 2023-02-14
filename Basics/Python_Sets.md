@@ -41,8 +41,10 @@ basic example of set :
 ![Snip20230214_55](https://user-images.githubusercontent.com/93876736/218715854-c6830846-dec1-4366-a2a3-be66a94d3bfd.png)
 
 
+lower() usecase:
 
-![Snip20230214_57](https://user-images.githubusercontent.com/93876736/218726863-88f2eb02-897d-4d57-b08c-dd015ea12c0d.png)
+![Snip20230214_58](https://user-images.githubusercontent.com/93876736/218730031-5d69ed0e-a73d-430d-9787-529576798ae9.png)
+
 
 
 
