@@ -127,6 +127,11 @@ We can use the == operator to check whether two sets are equal or not. For examp
 ![Snip20230214_71](https://user-images.githubusercontent.com/93876736/218749252-52d6779b-d0c9-41b1-bf20-5ee95d3f92a7.png)
 
 
+Containment test in set :
+
+ we can check if element exists or not using IN function. Example 
+ 
+ ![Snip20230214_72](https://user-images.githubusercontent.com/93876736/218750030-6ef31aa0-3f01-4103-9265-bdb6a41b0849.png)
 
  
  
