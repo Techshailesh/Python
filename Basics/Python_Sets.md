@@ -42,6 +42,11 @@ basic example of set :
 
 
 
+![Snip20230214_57](https://user-images.githubusercontent.com/93876736/218726863-88f2eb02-897d-4d57-b08c-dd015ea12c0d.png)
+
+
+
+
 
 ### Create an Empty Set in Python ##
 
