@@ -63,5 +63,18 @@ Creating empty set is bit tricky beacuse if we use {} python will take it as Dic
 ** len() function: To determine how many items a set has.
    
    ![Snip20230214_60](https://user-images.githubusercontent.com/93876736/218730786-9011b3a3-6609-4bca-b460-4847be0a9282.png)
+   
+   
+ 
+ ** Python built in comon functions:
+ 
+ The first one is the add() method.Sets are mutable. 
+ So you can add an element in an existing set. However, the add() method allows you to add a single element at a time.
+ 
+ ![Snip20230214_61](https://user-images.githubusercontent.com/93876736/218733860-faef5ff0-cdb9-43d5-a5b2-8e4ea489cc27.png)
+
+ 
+ 
+ 
 
 
