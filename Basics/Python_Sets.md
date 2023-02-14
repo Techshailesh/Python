@@ -135,6 +135,13 @@ Containment test in set :
 
  
  
+ We can also check many other operations such as superset ,subset . refer document.
+ 
+ ![Snip20230214_73](https://user-images.githubusercontent.com/93876736/218751228-66d0aaf0-5c4c-46f4-b17a-d1508909fcf3.png)
+
+
+
+## So when you are using Python sets in your program, think of them as a mathematical set and look for the methods to get things done.Most likely, you will find a function or a method to achieve your goal.##
  
 
 
