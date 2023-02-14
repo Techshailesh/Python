@@ -42,3 +42,12 @@ basic example of set :
 
 
 
+
+### Create an Empty Set in Python ##
+
+Creating empty set is bit tricky beacuse if we use {} python will take it as Dictionary. See example below, so we have to use SET to create empty set .
+
+
+
+![Snip20230214_56](https://user-images.githubusercontent.com/93876736/218719189-fa529306-db0e-4a38-a25c-bd4ebc1d7443.png)
+
