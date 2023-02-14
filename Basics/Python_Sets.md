@@ -113,7 +113,12 @@ The difference between two sets A and B include elements of set A that are not p
 
 
 
-4) 
+4) Set Symmetric Difference:
+
+The symmetric difference between two sets A and B includes all elements of A and B without the common elements.
+
+![Snip20230214_70](https://user-images.githubusercontent.com/93876736/218746323-c1bb6253-88e1-483a-818e-18bcb20f666e.png)
+
 
 
  
