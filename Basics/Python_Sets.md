@@ -109,7 +109,8 @@ The intersection of two sets A and B include the common elements between set A a
 
 The difference between two sets A and B include elements of set A that are not present on set B.
 
-![Snip20230214_69](https://user-images.githubusercontent.com/93876736/218745497-57cb62a5-321b-47b9-b13f-0356f8e7d57d.png)
+![Snip20230214_69](https://user-images.githubusercontent.com/93876736/218745755-8b0d8679-4d46-452b-88fb-2d2e45aff491.png)
+
 
 
 4) 
