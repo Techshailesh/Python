@@ -162,6 +162,13 @@ Then how do we access the elements of a set? Well, you must loop through it. You
 ![Snip20230214_75](https://user-images.githubusercontent.com/93876736/218774530-83768d9c-74d3-4d3a-971a-b13db1bd1e0d.png)
 
 
- 
+************ FROZENSET *******************
+
+Set elements are immutable but the set itself is a mutable object, so in order to make an immutable set, we use the concept of frozenset. The frozen set returns an immutable version of a Python set object.
+
+We can modify the elements of a set at any time by adding or deleting elements, but "frozen sets" do not allow any modification after its creation. Frozenset can be applied on any iterable. A frozenset is similar to a set object, therefore, the order of an element is not guaranteed to be preserved.
+
+![Snip20230214_77](https://user-images.githubusercontent.com/93876736/218788025-a1f5b077-4125-493c-aa6f-3192a5a6078f.png)
+
 
 
