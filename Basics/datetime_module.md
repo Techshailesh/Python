@@ -11,7 +11,7 @@ All the objects of these classes are immutable. So once defined, you cannot chan
 However, we can manipulate them and create a new object
 
 
-******** DATE ****************
+                                               ******** DATE ****************
 
 Lets import DATE class from datetime module. 
 Once imported , we can use the date class anywhere in this notebook.
@@ -53,7 +53,7 @@ An example is shown below--
 There are many other similar format codes in the Python doc, we can refer that as desired.
 
 
-************* TIME *******************
+                          ************* TIME *******************
 
 
 
