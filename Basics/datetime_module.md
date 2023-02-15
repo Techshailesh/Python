@@ -120,6 +120,19 @@ We can also print the current date and time using the Datetime.now() function. n
 
 ![Snip20230215_19](https://user-images.githubusercontent.com/93876736/219022959-5819f9e6-b79f-4c51-975d-b360b8d1fe97.png)
 
+
+***Python strftime() function: **
+
+The strftime() function is used to convert date and time objects to their string representation.
+Syntax :
+
+strftime(format)
+
+![Snip20230215_29](https://user-images.githubusercontent.com/93876736/219131149-0894310f-a167-4dbd-b219-32ebff07246a.png)
+
+
+
+
                                   ########### Timedelta class #############
                    
 Python timedelta class is used for calculating differences in dates and also can be used for date manipulations in Python. 
