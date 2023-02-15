@@ -107,6 +107,10 @@ The DateTime class contains information on both date and tim. We create this usi
  7.Microsecond
  
  The first three arguments are required, and the remaining arguments are optional.
+ 
+ 
+ ![Snip20230215_18](https://user-images.githubusercontent.com/93876736/219022034-25772d0f-00eb-4a99-826a-016ee1cf06df.png)
+
 
       
 
