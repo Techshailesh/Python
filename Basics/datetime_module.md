@@ -137,7 +137,7 @@ Returns : Date
 ![Snip20230215_21](https://user-images.githubusercontent.com/93876736/219066973-7d8d94b4-61c1-4b98-aadf-a2232069827c.png)
 
 
-
+We only used days, hours, and minutes earlier, but you can use a combination of other inputs such as weeks, seconds, and even microseconds.
 
 
 
