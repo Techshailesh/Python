@@ -131,7 +131,11 @@ We can create this duration using the " timedelta() constructor "
 Constructor syntax:  
 
 class datetime.timedelta(days=0, seconds=0, microseconds=0, milliseconds=0, minutes=0, hours=0, weeks=0)
+
 Returns : Date 
+
+![Snip20230215_21](https://user-images.githubusercontent.com/93876736/219066973-7d8d94b4-61c1-4b98-aadf-a2232069827c.png)
+
 
 
 
