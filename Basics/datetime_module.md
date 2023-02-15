@@ -82,7 +82,8 @@ See the examples:
 
 ![Snip20230215_15](https://user-images.githubusercontent.com/93876736/219015950-8590c2a9-9312-4c8a-9b31-e64ba68b587c.png)
 
-
+ 
+               ********* DATETIME CLASS ******************
 
 The DateTime class contains information on both date and tim. We create this using "datetime()" constructor
       
