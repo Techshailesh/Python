@@ -88,6 +88,18 @@ See the examples:
 The DateTime class contains information on both date and tim. We create this using "datetime()" constructor
       
  ![Snip20230215_17](https://user-images.githubusercontent.com/93876736/219018619-efac2e86-706d-4dd9-9bde-032c94d4d0aa.png)
+ 
+ 
+ So, the datetime function takes seven arguments –
+ 1.Year
+ 2.Month
+ 3.Date
+ 4.Hour
+ 5.Minute
+ 6.Second
+ 7.Microsecond
+ 
+ The first three arguments are required, and the remaining arguments are optional.
 
       
 
