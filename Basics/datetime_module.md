@@ -170,8 +170,25 @@ You cannot add two dates. However, you can subtract two dates. You can also add 
                                
 
 
+Python doesn't support any kind of arithmetic on time object.
+
+* time + time = Not allowed
+* time -time = Not allowed
+* time + timedelta = Not allowed
+* time -timedelta = Not allowed
 
 
+Lets see some examples and verify it :
+
+![Snip20230215_26](https://user-images.githubusercontent.com/93876736/219078514-e405ead7-3827-4783-b9f5-3ded834f1816.png)
+
+![Snip20230215_27](https://user-images.githubusercontent.com/93876736/219078652-26532896-09dd-4d65-ae53-ead9eeb8dbde.png)
+
+
+![Snip20230215_28](https://user-images.githubusercontent.com/93876736/219078817-6abff9fa-3d5e-462b-8dca-36549676a1c3.png)
+
+
+Python doesn't support any kind of arithmetic on time object.time + time = Not allowedtime -time = Not allowedtime + timedelta = Not allowedtime -timedelta = Not allowed
 
 
 
