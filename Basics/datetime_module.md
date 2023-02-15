@@ -83,6 +83,14 @@ See the examples:
 ![Snip20230215_15](https://user-images.githubusercontent.com/93876736/219015950-8590c2a9-9312-4c8a-9b31-e64ba68b587c.png)
 
 
+                             ************ Datetime class **************
+                             
+      Most of the time we have to get date and time together, so this class is suitable in such situation.
+      
+      The DateTime class contains information on both date and time
+      
+      
+
                                  
 
 
