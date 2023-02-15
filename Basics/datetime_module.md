@@ -141,11 +141,15 @@ We only used days, hours, and minutes earlier, but you can use a combination of 
 
 The main usage of this class is to perform arithmetic opertions , we will see some examples:
 
-add and subtract two dates , we will call as DOB here.
+1) add two dates , we will call as DOB here. We wil notice that add operations is not allowed.
 
 
-![Snip20230215_22](https://user-images.githubusercontent.com/93876736/219068265-57b8fbc5-4616-4f9e-b360-8e63ee76bfc9.png)
+![Snip20230215_23](https://user-images.githubusercontent.com/93876736/219069460-402e99b8-7286-43b5-9022-c5e2642a8467.png)
 
+
+2) minus two dates, we will notice that this opertion is allowed and it makes sense also . we can get age difference  
+
+![Snip20230215_24](https://user-images.githubusercontent.com/93876736/219069720-1bcce3cf-af26-4d58-8c6f-0d78bc32ef6b.png)
 
 
 
