@@ -59,9 +59,13 @@ There are many other similar format codes in the Python doc, we can refer that a
 The time class creates the time object which represents local time, independent of any day.
 
 The time function takes four arguments : 
+
 1.Hour
+
 2.Minute
+
 3.Second
+
 4.Microsecond
 
 .All the arguments are optional, and the default value is assumed to be zero.
