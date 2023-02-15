@@ -21,7 +21,8 @@ It represents a date in the format "YYYY-MM-DD". Constructor of this class needs
 
 class datetime.date(year, month, day)
 
-![Snip20230215_2](https://user-images.githubusercontent.com/93876736/218996673-6c7201d1-9473-4640-8555-610b29fa7a2c.png)
+![Snip20230215_5](https://user-images.githubusercontent.com/93876736/219001083-f8d650d2-90b7-474b-bb75-514db0e9b296.png)
+
 
 The argument values must be an integer, and they should be within a valid range.
 I mean, I cannot supply month value as 13. Similarly, I cannot provide a date value as 32.
