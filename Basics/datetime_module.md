@@ -128,6 +128,11 @@ It is one of the easiest ways to perform date manipulations.
 The timedelta represents a duration.For example, you may want to represent 2 days, 3 hours, and 45 minutes. That is a duration. 
 We can create this duration using the " timedelta() constructor "
 
+Constructor syntax:  
+
+class datetime.timedelta(days=0, seconds=0, microseconds=0, milliseconds=0, minutes=0, hours=0, weeks=0)
+Returns : Date 
+
 
 
 
