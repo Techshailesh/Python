@@ -120,6 +120,20 @@ We can also print the current date and time using the Datetime.now() function. n
 
 ![Snip20230215_19](https://user-images.githubusercontent.com/93876736/219022959-5819f9e6-b79f-4c51-975d-b360b8d1fe97.png)
 
+                                  ########### Timedelta class #############
+                   
+Python timedelta class is used for calculating differences in dates and also can be used for date manipulations in Python. 
+It is one of the easiest ways to perform date manipulations.
+
+The timedelta represents a duration.For example, you may want to represent 2 days, 3 hours, and 45 minutes. That is a duration. 
+We can create this duration using the " timedelta() constructor "
+
+
+
+
+
+
+
 
 
       
