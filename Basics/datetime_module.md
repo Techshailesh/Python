@@ -33,7 +33,7 @@ Lets see some examples by passing out of range values:
 ![Snip20230215_3](https://user-images.githubusercontent.com/93876736/218998440-ed050c4f-131b-4156-9a26-e2261926ede2.png)
 
 
-Other than the date() constructor function, we can also use the today() function to create a date.
+Other than the date() constructor function, we can  use the "today() function" to create a date.
 
 However, today will give you the current system date.
 
