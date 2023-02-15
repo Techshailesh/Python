@@ -109,12 +109,16 @@ The DateTime class contains information on both date and tim. We create this usi
  The first three arguments are required, and the remaining arguments are optional.
  
  
- ![Snip20230215_18](https://user-images.githubusercontent.com/93876736/219022034-25772d0f-00eb-4a99-826a-016ee1cf06df.png)
+THE "datetime() function" also implements stringent validation, if we pass invalid values it will fail as we have seen in date and time also.
+
+Once the datetime is defined, you can get all the individual components using the appropriate member attributes.
+
+![Snip20230215_18](https://user-images.githubusercontent.com/93876736/219022034-25772d0f-00eb-4a99-826a-016ee1cf06df.png)
 
 
       
 
-                                 
+                               
 
 
 
