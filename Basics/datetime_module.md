@@ -84,9 +84,7 @@ See the examples:
 
 
 
-Most of the time we have to get date and time together, so this class is suitable in such situation.
-      
-      The DateTime class contains information on both date and tim.We create this using "datetime()" constructor
+The DateTime class contains information on both date and tim. We create this using "datetime()" constructor
       
  ![Snip20230215_17](https://user-images.githubusercontent.com/93876736/219018619-efac2e86-706d-4dd9-9bde-032c94d4d0aa.png)
 
