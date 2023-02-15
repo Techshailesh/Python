@@ -152,9 +152,21 @@ The main usage of this class is to perform arithmetic opertions , we will see so
 ![Snip20230215_24](https://user-images.githubusercontent.com/93876736/219069720-1bcce3cf-af26-4d58-8c6f-0d78bc32ef6b.png)
 
 
+What if we want to add 2 days to a date? Lets see
 
-      
+![Snip20230215_25](https://user-images.githubusercontent.com/93876736/219071796-61179459-ed35-4204-bb1c-317aab4fe21b.png)
 
+
+
+So here is the summary:
+
+* datetime + datetime = Not allowed
+* datetime -datetime = datetimedate
+* time + timedelta = datetime
+* datetime -timedelta = datetime
+
+
+You cannot add two dates. However, you can subtract two dates. You can also add and subtract timedelta to a date.
                                
 
 
