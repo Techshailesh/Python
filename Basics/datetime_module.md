@@ -68,9 +68,12 @@ The time function takes four arguments :
 
 4.Microsecond
 
-.All the arguments are optional, and the default value is assumed to be zero.
+All the arguments are optional, and the default value is assumed to be zero.
 
-![Snip20230215_9](https://user-images.githubusercontent.com/93876736/219011490-2868f966-5750-47e9-8d79-93d0629b893e.png)
+
+![Snip20230215_12](https://user-images.githubusercontent.com/93876736/219013063-d03f9ef8-bd9d-465a-a931-0891610a5a22.png)
+
+
 
 
                                  
