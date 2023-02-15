@@ -187,8 +187,8 @@ Lets see some examples and verify it :
 
 ![Snip20230215_28](https://user-images.githubusercontent.com/93876736/219078817-6abff9fa-3d5e-462b-8dca-36549676a1c3.png)
 
-
-Python doesn't support any kind of arithmetic on time object.time + time = Not allowedtime -time = Not allowedtime + timedelta = Not allowedtime -timedelta = Not allowed
+So conclusion is that we should avid using "TIME" class unless until reqired in special case. 
+Always go with "DATETIME" as it wil help in data manipulations easily as we have seen that we can do some operattions 
 
 
 
