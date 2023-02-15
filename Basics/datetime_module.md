@@ -53,7 +53,25 @@ An example is shown below--
 There are many other similar format codes in the Python doc, we can refer that as desired.
 
 
-                          ************* TIME *******************
+                                 ************* TIME **************
+                                 
+
+The time class creates the time object which represents local time, independent of any day.
+
+The time function takes four arguments : 
+1.Hour
+2.Minute
+3.Second
+4.Microsecond
+
+.All the arguments are optional, and the default value is assumed to be zero.
+
+![Snip20230215_9](https://user-images.githubusercontent.com/93876736/219011490-2868f966-5750-47e9-8d79-93d0629b893e.png)
+
+
+                                 
+
+
 
 
 
