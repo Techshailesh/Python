@@ -116,6 +116,12 @@ Once the datetime is defined, you can get all the individual components using th
 ![Snip20230215_18](https://user-images.githubusercontent.com/93876736/219022034-25772d0f-00eb-4a99-826a-016ee1cf06df.png)
 
 
+We can also print the current date and time using the Datetime.now() function. now() function returns the current local date and time. 
+
+![Snip20230215_19](https://user-images.githubusercontent.com/93876736/219022959-5819f9e6-b79f-4c51-975d-b360b8d1fe97.png)
+
+
+
       
 
                                
