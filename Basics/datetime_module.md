@@ -74,7 +74,7 @@ All the arguments are optional, and the default value is assumed to be zero.
 ![Snip20230215_12](https://user-images.githubusercontent.com/93876736/219013063-d03f9ef8-bd9d-465a-a931-0891610a5a22.png)
 
 
-Same as the date() function, the time() function also implements stringent validation, and you cannot supply invalid values.
+The time() function also implements stringent validation, and you cannot supply invalid values.
 See the examples:
 
 ![Snip20230215_14](https://user-images.githubusercontent.com/93876736/219014233-996105c7-5b6e-4b2d-8f1c-b8fc91b5a66b.png)
