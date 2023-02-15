@@ -139,8 +139,12 @@ Returns : Date
 
 We only used days, hours, and minutes earlier, but you can use a combination of other inputs such as weeks, seconds, and even microseconds.
 
+The main usage of this class is to perform arithmetic opertions , we will see some examples:
+
+add and subtract two dates , we will call as DOB here.
 
 
+![Snip20230215_22](https://user-images.githubusercontent.com/93876736/219068265-57b8fbc5-4616-4f9e-b360-8e63ee76bfc9.png)
 
 
 
