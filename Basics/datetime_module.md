@@ -80,14 +80,11 @@ See the examples:
 ![Snip20230215_14](https://user-images.githubusercontent.com/93876736/219014233-996105c7-5b6e-4b2d-8f1c-b8fc91b5a66b.png)
 
 
-![Snip20230215_15](https://user-images.githubusercontent.com/93876736/219015950-8590c2a9-9312-4c8a-9b31-e64ba68b587c.png).
+![Snip20230215_15](https://user-images.githubusercontent.com/93876736/219015950-8590c2a9-9312-4c8a-9b31-e64ba68b587c.png)
 
 
 
-                             
-                             
-                             
-      Most of the time we have to get date and time together, so this class is suitable in such situation.
+Most of the time we have to get date and time together, so this class is suitable in such situation.
       
       The DateTime class contains information on both date and time
       
