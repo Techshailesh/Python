@@ -43,6 +43,14 @@ However, today will give you the current system date.
 
 ![Snip20230215_6](https://user-images.githubusercontent.com/93876736/219002688-a861cdcc-7798-4f7a-8242-9c97c8a0c496.png)
 
+"strftime() function" to format your date and time in the desired string format. 
+An example is shown below--
+
+
+![Snip20230215_7](https://user-images.githubusercontent.com/93876736/219007538-0c34321a-4b5a-462d-ab25-17f9cb8c2cfb.png)
+
+
+
 
 
 
