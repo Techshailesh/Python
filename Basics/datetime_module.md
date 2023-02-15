@@ -12,3 +12,15 @@ However, we can manipulate them and create a new object
 
 
 
+Lets import DATE class from datetime module. 
+Once imported , we can use the date class anywhere in this notebook.
+
+It represents a date in the format "YYYY-MM-DD". Constructor of this class needs three mandatory arguments year, month and date.
+
+--Constructor syntax: ----  
+
+class datetime.date(year, month, day)
+
+![Snip20230215_2](https://user-images.githubusercontent.com/93876736/218996673-6c7201d1-9473-4640-8555-610b29fa7a2c.png)
+
+
