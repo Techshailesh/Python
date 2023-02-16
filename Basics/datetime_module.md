@@ -148,7 +148,8 @@ Parameter:
 
 WRONG format example:
 
-![Snip20230216_34](https://user-images.githubusercontent.com/93876736/219365392-bb1ad52d-d0c4-4f6a-bed2-f1c212c4a99f.png)
+![Snip20230216_35](https://user-images.githubusercontent.com/93876736/219365626-ba5acaa9-9316-4237-8ae8-427b1f40ae04.png)
+
 
 
 
