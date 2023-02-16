@@ -132,6 +132,22 @@ strftime(format)
 
 
 
+*** strptime() **** 
+used to format the time stamp which is in string format to date-time object.
+
+Syntax: datetime.strptime(time_data, format_data)
+
+Parameter:
+
+--time_data is the time present in string format
+
+--format_data is the data present in datetime format which is converted from time_data using this function.
+
+
+![Snip20230216_30](https://user-images.githubusercontent.com/93876736/219361460-81b64f0d-3f48-4789-b996-bf388ea548b9.png)
+
+
+
 
                                   ########### Timedelta class #############
                    
