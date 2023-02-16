@@ -121,7 +121,7 @@ We can also print the current date and time using the Datetime.now() function. n
 ![Snip20230215_19](https://user-images.githubusercontent.com/93876736/219022959-5819f9e6-b79f-4c51-975d-b360b8d1fe97.png)
 
 
-***Python strftime() function: **
+     ******* Python strftime() function *******
 
 The strftime() function is used to convert date and time objects to their string representation.
 Syntax :
@@ -132,7 +132,8 @@ strftime(format)
 
 
 
-*** strptime() **** 
+     ****** Python strptime() ******* 
+
 used to format the time stamp which is in string format to date-time object.
 
 Syntax: datetime.strptime(time_data, format_data)
