@@ -144,8 +144,8 @@ Parameter:
 
 --format_data is the data present in datetime format which is converted from time_data using this function.
 
+![Snip20230216_32](https://user-images.githubusercontent.com/93876736/219363430-b67aaf5c-9be2-49c7-ac12-2a16c537d4c0.png)
 
-![Snip20230216_30](https://user-images.githubusercontent.com/93876736/219361460-81b64f0d-3f48-4789-b996-bf388ea548b9.png)
 
 
 
