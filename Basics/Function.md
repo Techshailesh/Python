@@ -49,10 +49,20 @@ A Python function may or may not return a value. If we want our function to retu
 
 ![Snip20230217_44](https://user-images.githubusercontent.com/93876736/219684556-fe40e0ae-cb3a-4199-997e-e738d042b626.png)
 
+So basically what happends is that return passes the output to function directly, rather then printing it directly on screen . This is the best practice that we should always use RETURN when wokring with function .
+
+What will hapen if we dont follow that , lets see in example:
+
+![Snip20230217_47](https://user-images.githubusercontent.com/93876736/219688747-93392010-ff23-4dfb-8f26-263071e5f519.png)
+
+
 
 Important point here is that "The return statement also denotes that the function has ended. Any code after return is not executed."
 
 ![Snip20230217_46](https://user-images.githubusercontent.com/93876736/219684665-1f00d781-1c2d-4e6c-a00b-96eb98d1f6b8.png)
+
+
+
 
 
 
