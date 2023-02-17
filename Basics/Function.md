@@ -24,10 +24,35 @@ Lets see some basic examples:
 ![Snip20230217_38](https://user-images.githubusercontent.com/93876736/219640198-7154a5c8-56ce-4c99-ab06-08a41abf9e98.png)
 
 
-Parameters and arguments:
+*********** Python Function Arguments ***********
 
-Lets understand parameters and arguments
+Lets understand parameters and arguments:
+
+If we create a function with arguments, we need to pass the corresponding values while calling them. For example,
 
 
-![Snip20230217_40](https://user-images.githubusercontent.com/93876736/219643293-b32939c0-1361-4264-8ecc-3264bcfbe285.png)
+1) In 1 st example we are passing an argument to check num is odd or even . The value 5 is copied to the variable 'a,' and the function is executed.  
+ Since the 'if' condition is false, it prints 'Odd' on the screen.  
+ Likewise for value 8 it works. So we see we have just written code as function  once and we are calling when required.
+ 
+2) In example 2 we are just passing two numbers as an argument and those values are copied to variable num1,num2.
+As per code , it adds and prints result on screen. 
 
+
+![Snip20230217_42](https://user-images.githubusercontent.com/93876736/219653488-ac46e2e6-38df-4b56-9531-7f2982c5dff5.png)
+
+
+************** The return Statement in Python ***********
+
+
+A Python function may or may not return a value. If we want our function to return some value to a function call, we use the return statement.
+
+![Snip20230217_44](https://user-images.githubusercontent.com/93876736/219684556-fe40e0ae-cb3a-4199-997e-e738d042b626.png)
+
+
+Important point here is that "The return statement also denotes that the function has ended. Any code after return is not executed."
+
+![Snip20230217_46](https://user-images.githubusercontent.com/93876736/219684665-1f00d781-1c2d-4e6c-a00b-96eb98d1f6b8.png)
+
+
+If we create a function with arguments, we need to pass the corresponding values while calling them. For example,
