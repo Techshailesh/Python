@@ -55,4 +55,4 @@ Important point here is that "The return statement also denotes that the functio
 ![Snip20230217_46](https://user-images.githubusercontent.com/93876736/219684665-1f00d781-1c2d-4e6c-a00b-96eb98d1f6b8.png)
 
 
-If we create a function with arguments, we need to pass the corresponding values while calling them. For example,
+
