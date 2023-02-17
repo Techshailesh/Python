@@ -49,7 +49,7 @@ A Python function may or may not return a value. If we want our function to retu
 
 ![Snip20230217_44](https://user-images.githubusercontent.com/93876736/219684556-fe40e0ae-cb3a-4199-997e-e738d042b626.png)
 
-So basically what happends is that return passes the output to function directly, rather then printing it directly on screen . This is the best practice that we should always use RETURN when wokring with function .
+So basically what happends is that return passes the output to function directly, rather then printing it directly on screen . This is the best practice that we should always use "RETURN" when wokring with function .
 
 What will hapen if we dont follow that , lets see in example:
 
