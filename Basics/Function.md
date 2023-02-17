@@ -23,3 +23,11 @@ Lets see some basic examples:
 
 ![Snip20230217_38](https://user-images.githubusercontent.com/93876736/219640198-7154a5c8-56ce-4c99-ab06-08a41abf9e98.png)
 
+
+Parameters and arguments:
+
+Lets understand parameters and arguments
+
+
+![Snip20230217_40](https://user-images.githubusercontent.com/93876736/219643293-b32939c0-1361-4264-8ecc-3264bcfbe285.png)
+
