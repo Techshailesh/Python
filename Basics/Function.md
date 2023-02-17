@@ -53,7 +53,8 @@ So basically what happends is that return passes the output to function directly
 
 What will hapen if we dont follow that , lets see in example:
 
-![Snip20230217_47](https://user-images.githubusercontent.com/93876736/219688747-93392010-ff23-4dfb-8f26-263071e5f519.png)
+![Snip20230217_50](https://user-images.githubusercontent.com/93876736/219689993-744549d9-c30b-486a-ad54-e2b8c3bad968.png)
+
 
 
 
