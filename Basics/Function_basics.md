@@ -16,6 +16,8 @@ There are two types of function in Python programming:
 * User-defined functions - We can create our own functions based on our requirements.
 
 
+We will see some basics on "USER-DEFINED FUNCTIONS":
+
 BASIC SYNTAX:  ![51](https://user-images.githubusercontent.com/93876736/219626282-332bd49d-0a7a-40ad-9858-0a575d294c18.png)
 
 
