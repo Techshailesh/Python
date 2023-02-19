@@ -97,7 +97,15 @@ So, I can call this function with the parameters as key/value like this.
 ![Snip20230219_19](https://user-images.githubusercontent.com/93876736/219973091-7e4d0be0-c55f-48d2-83f5-78eb85e0b60c.png)
 
 
+![Snip20230219_20](https://user-images.githubusercontent.com/93876736/219973736-4aa14c33-0dd5-4284-9a97-6e2a05c2c984.png)
 
+
+ ***********SO IMP FINAL POINTS *************************:
+
+
+Define all your mandatory arguments first and then add all your optional arguments.
+
+Call the function passing all the mandatory arguments by position. Then pass the optional arguments using the key/value pair.
 
 
 
