@@ -57,6 +57,24 @@ Lets see in practical.
 
 ![Snip20230219_9](https://user-images.githubusercontent.com/93876736/219969370-0f359020-8689-4bd5-af43-2aef4bf9a938.png)
 
+Oops !!! it failed. I passed two values , logically it should take but unfortunately no.
+
+Here I tried to make the first parameter as optional. But I got an error "-the non-default argument follows the default argument"
+
+
+Rule:
+ It means I cannot have a mandatory parameter after an optional parameter.
+ And the rule is simple. Define all your mandatory parameters and then add your optional parameters in the end.
+ If I want to make Starter an optional parameter, I must place it in the end as shown below
+ 
+ 
+ ![Snip20230219_13](https://user-images.githubusercontent.com/93876736/219970824-586f498f-d0dc-4af6-84e5-2ee378ec4d29.png)
+
+
+
+
+
+
 
 
 
