@@ -82,11 +82,16 @@ I have two default values, and both of these are in the end
 Lets see second scenario :
 
 
+When I am trying to pass key based value , it failed , see the example below .
 
 ![Snip20230219_16](https://user-images.githubusercontent.com/93876736/219972760-2e2b888f-cc6d-4cab-93c6-06bd0b3c6db2.png)
 
 
+So, we have one more rule.
+While calling a function, all our key/value arguments should be in the end.
+So, I can call this function with the parameters as key/value like this.
 
+![Snip20230219_18](https://user-images.githubusercontent.com/93876736/219972935-83c18a2a-f7f8-4f1c-aafc-3301a212942d.png)
 
 
 
