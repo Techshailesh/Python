@@ -39,11 +39,24 @@ I can also call function with all three arguments in same example.
 
 
 
-Similarly , when I am passing all three arguments , function accepts the input passed execlusively , not default . So desert = "Ice cream".
+Similarly , when I am passing all three arguments , function accepts the input passed execlusively , not default . So Dessert = "Ice cream" here.
 
 I can have all 3 arguments as default , as shown below:
 
 ![Snip20230219_8](https://user-images.githubusercontent.com/93876736/219968779-484880b8-f5af-4c95-bead-fd446b09bd7e.png)
+
+
+######################################################################################################################################
+
+Lets see some complex scenarios now :
+
+
+Lets say I just want to change Main and Dessert in menu for this week, and I want starter to be default. 
+
+Lets see in practical.
+
+![Snip20230219_9](https://user-images.githubusercontent.com/93876736/219969370-0f359020-8689-4bd5-af43-2aef4bf9a938.png)
+
 
 
 
