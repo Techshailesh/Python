@@ -26,6 +26,9 @@ I can also call function with all three arguments in same example.
 ![Snip20230219_7](https://user-images.githubusercontent.com/93876736/219967923-fbcf47bb-ce8e-4e75-bcff-d02b7bd742c2.png)
 
 
+So when I am passing just two argumnents , third argument takes default value defined in menu function ie : desert="Sweet".
+
+Similarly , when I am passing all three arguments , function accepts the input passed execlusively , not default . So desert = "Ice cream".
 
 
 
