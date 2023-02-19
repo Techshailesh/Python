@@ -69,6 +69,11 @@ Rule:
  
  
  ![Snip20230219_13](https://user-images.githubusercontent.com/93876736/219970824-586f498f-d0dc-4af6-84e5-2ee378ec4d29.png)
+ 
+
+
+![Snip20230219_14](https://user-images.githubusercontent.com/93876736/219971397-47f1b1e0-d51f-43be-bea3-e48de532b80f.png)
+
 
 
 
