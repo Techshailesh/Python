@@ -14,6 +14,7 @@ We cannot pass less or more noumber of arguments when calling function , we will
 Function parameters are of two types:
 
 1.Mandatory Parameters
+
 2.Optional Parameters 
 
 If we want to make a function parameter optional, you must set a default value for the parameter, and it becomes optional.
