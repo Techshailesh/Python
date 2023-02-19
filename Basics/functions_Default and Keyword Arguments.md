@@ -38,7 +38,9 @@ So when I am passing just two argumnents , third argument takes default value de
 
 Similarly , when I am passing all three arguments , function accepts the input passed execlusively , not default . So desert = "Ice cream".
 
-**********************************************************************************************************************************************
+I can have all 3 arguments as default , as shown below:
+
+![Snip20230219_8](https://user-images.githubusercontent.com/93876736/219968779-484880b8-f5af-4c95-bead-fd446b09bd7e.png)
 
 
 
