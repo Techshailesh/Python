@@ -11,9 +11,16 @@ We cannot pass less or more noumber of arguments when calling function , we will
 ![Snip20230219_4](https://user-images.githubusercontent.com/93876736/219965367-bd5b337f-d154-4fa4-b1b5-b8c77729e90f.png)
 
 ***********************************************************************************************************************************************
+Function parameters are of two types:
+
+1.Mandatory Parameters
+2.Optional Parameters 
+
+If we want to make a function parameter optional, you must set a default value for the parameter, and it becomes optional.
+If we do not set a default value, the parameter remains mandatory.
 
 
-However we have this flexibility to define three arguments and just pass 1 or two values .
+We have this flexibility to define three arguments and just pass 1 or two values.
 
 I have changed the menu() function by changing the third parameter to have a default value ie Desert="Sweet".
 
@@ -29,6 +36,17 @@ I can also call function with all three arguments in same example.
 So when I am passing just two argumnents , third argument takes default value defined in menu function ie : desert="Sweet".
 
 Similarly , when I am passing all three arguments , function accepts the input passed execlusively , not default . So desert = "Ice cream".
+
+**********************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
 
 
 
