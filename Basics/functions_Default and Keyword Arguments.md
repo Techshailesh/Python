@@ -197,5 +197,28 @@ We have some simple and obvious rules.---
 * If you are using a variable-length tuple type argument, you can place some more key/value or default arguments after the variable-length tuple argument
 
 
+****************************************************************************************************************************************
+
+                  ##### UNPACK EXISTING FUNCTIONS #######
+                  
+      
+      Till now we have seen that we have paased new arguments when calling function.
+      
+      What if we have to use exsiting list of arguments or disctionary of arguments . Lets see with example:
+      
+     
+     
+   existing list:
+   
+  1)  arglist("Apple","Bannana","Cherry"). 
+  
+  I want to pass existing list in my function . Lets see.
+  
+  ![Snip20230220_29](https://user-images.githubusercontent.com/93876736/220115438-5f1aba0f-ae43-4753-a120-16b2b6264c96.png)
+
+  
+  
+  
+
 
 
