@@ -148,8 +148,7 @@ Why? Because Python doesn't know if you are passing items list or you are passin
 ![Snip20230220_24](https://user-images.githubusercontent.com/93876736/220079830-5caa97fc-7521-4c8c-bc09-fc647b1cbecd.png)
 
 
-
-
+**SO VERY IMP POINT HERE IS THAT ANY DEFAULT ARGUMENT SHOULD BE KEPT AT END . Python will never give error but we will get wrong output**
 
 
 
