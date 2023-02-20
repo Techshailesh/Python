@@ -136,6 +136,17 @@ I can pass comma seperated value and python packs it based on position into grou
 ![Snip20230220_23](https://user-images.githubusercontent.com/93876736/220078924-3464b1d1-c10a-4002-8e3f-145569497ebd.png)
 
 
+NOW important point to be noticed here is about default argument position importance:
+
+See the example below .
+
+I am trying to call the function with the customer name and some items. 
+And I can see that I got some output, but it is incorrect. The Bread goes to the delivery_location. 
+Why? Because Python doesn't know if you are passing items list or you are passing delivery_type.
+
+
+![Snip20230220_24](https://user-images.githubusercontent.com/93876736/220079830-5caa97fc-7521-4c8c-bc09-fc647b1cbecd.png)
+
 
 
 
