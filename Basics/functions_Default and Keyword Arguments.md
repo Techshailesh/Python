@@ -136,7 +136,7 @@ I can pass comma seperated value and python packs it based on position into grou
 ![Snip20230220_23](https://user-images.githubusercontent.com/93876736/220078924-3464b1d1-c10a-4002-8e3f-145569497ebd.png)
 
 
-NOW important point to be noticed here is about default argument position importance:
+**NOW important point to be noticed here is about "default argument position importance"**
 
 See the example below .
 
