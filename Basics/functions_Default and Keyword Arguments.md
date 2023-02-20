@@ -127,9 +127,14 @@ I have created a function which accepts customer order details.
 "*". Notice that I am placing an asterisk symbol before the parameter name. Now Python assumes that the parameter is a tuple. 
 So, placing an asterisk will tell Python that we are expecting a tuple.
 
-
+I can pass comma seperated value and python packs it based on position into group called as tuple.
 
 ![Snip20230220_22](https://user-images.githubusercontent.com/93876736/220076989-b8ba29a8-6765-41ea-9f1c-50c457c83990.png)
+
+
+
+![Snip20230220_23](https://user-images.githubusercontent.com/93876736/220078924-3464b1d1-c10a-4002-8e3f-145569497ebd.png)
+
 
 
 
