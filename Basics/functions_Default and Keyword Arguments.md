@@ -151,4 +151,20 @@ Why? Because Python doesn't know if you are passing items list or you are passin
 **SO VERY IMP POINT HERE IS THAT ANY DEFAULT ARGUMENT SHOULD BE KEPT AT END . Python will never give error but we will get wrong output**
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Now lets see another case:  (KEY-VALUE pair)
+
+The grocery_order() function takes a comma-separated list of items. But what about the item quantity. 
+I mean, we can assume one packet of Bread and one toothpaste. But what about if we want to allow ordering items with a well-defined quantity.
+Something like this as shown below. 
+So, the first argument is the customer name, then we have a list of items that we assume to have a single quantity.
+But we also want to add some key/value pairs. The key is the item name, and the value is the item quantity.How to create this type of argument? Well, we know we are referring "key/value" pairs, so we could use a dictionary here.
+
+
+![Snip20230220_27](https://user-images.githubusercontent.com/93876736/220097241-0b2e2d27-42bc-4a29-b220-4c968cf10f98.png)
+
+I have added itemas with qunatity uisng DICTIONARY
+
+
 
