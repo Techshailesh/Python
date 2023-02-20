@@ -221,7 +221,13 @@ We have some simple and obvious rules.---
  ![Snip20230220_30](https://user-images.githubusercontent.com/93876736/220122031-dba9c624-d7bf-4eac-817e-373623f81f67.png)
 
   
+  FINAL , mixing both types:
   
+  ![Snip20230220_31](https://user-images.githubusercontent.com/93876736/220123796-0cd51dc5-b8aa-4b1a-9e3b-6135bc8ef950.png)
+
+  
+  
+  *****************************************************************************************************************************************
   
 
 
