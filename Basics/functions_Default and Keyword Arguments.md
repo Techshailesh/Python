@@ -199,7 +199,7 @@ We have some simple and obvious rules.---
 
 ****************************************************************************************************************************************
 
-                  ##### UNPACK EXISTING FUNCTIONS #######
+                              ---- UNPACK EXISTING FUNCTIONS ------
                   
       
       Till now we have seen that we have paased new arguments when calling function.
@@ -208,13 +208,17 @@ We have some simple and obvious rules.---
       
      
      
-   existing list:
+   Passing existing list:
    
-  1)  arglist("Apple","Bannana","Cherry"). 
+  1)  arglist=["Apple","Bannana","Cherry"] 
   
   I want to pass existing list in my function . Lets see.
   
   ![Snip20230220_29](https://user-images.githubusercontent.com/93876736/220115438-5f1aba0f-ae43-4753-a120-16b2b6264c96.png)
+
+ Passing exisitng Dictionary:
+ 
+ ![Snip20230220_30](https://user-images.githubusercontent.com/93876736/220122031-dba9c624-d7bf-4eac-817e-373623f81f67.png)
 
   
   
