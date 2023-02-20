@@ -187,6 +187,7 @@ Python offers two forms of variable length arguments:
 2.Variable-length dictionary
 
 If I want to pass a list or tuple to a function, you I use a variable-length tuple-type argument placing a * symbol in front of the parameter name.
+
 If I want to pass a dictionary to a function, you could use a variable-length dictionary type argument placing ** in front of the parameter name.
 
 We have some simple and obvious rules.---
