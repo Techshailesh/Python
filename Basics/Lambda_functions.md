@@ -26,5 +26,8 @@ Below is the syntax to define Lambda function:
 
 ![Snip20230220_33](https://user-images.githubusercontent.com/93876736/220208420-edb2c93c-712b-4321-9690-40cd40ac9a1a.png)
 
+![Snip20230220_34](https://user-images.githubusercontent.com/93876736/220209142-fc3e1f5a-6251-45b4-aadb-7b00172a9d8b.png)
+
+
 
 
