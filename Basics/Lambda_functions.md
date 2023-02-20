@@ -14,9 +14,9 @@ expressions that are usually a single line of a statement.
 
 Below is the syntax to define Lambda function:
 
-********************************
-lambda argument(s) : expression
-********************************
+
+--> lambda argument(s) : expression
+
 
 1) lambda is a keyword in Python for defining the anonymous function.
 2) argument(s) is a placeholder, that is a variable that will be used to hold the value you want to pass into the function expression. 
@@ -24,6 +24,7 @@ lambda argument(s) : expression
  
 3) expression is the code you want to execute in the lambda function.
 
-Note: that we dont have RETURN keyword in Lambda function.
+![Snip20230220_33](https://user-images.githubusercontent.com/93876736/220208420-edb2c93c-712b-4321-9690-40cd40ac9a1a.png)
+
 
 
