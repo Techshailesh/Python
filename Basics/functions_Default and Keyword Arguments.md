@@ -103,9 +103,16 @@ So, I can call this function with the parameters as key/value like this.
  ***********SO IMP FINAL POINTS *************************:
 
 
-Define all your mandatory arguments first and then add all your optional arguments.
+1) Define all your mandatory arguments first and then add all your optional arguments.
 
-Call the function passing all the mandatory arguments by position. Then pass the optional arguments using the key/value pair.
+2) Call the function passing all the mandatory arguments by position. Then pass the optional arguments using the key/value pair.
+
+
+*****************************************************************************************************************************************************
+                                                **Variable Length Arguments**
+****************************************************************************************************************************************************
+
+
 
 
 
