@@ -174,7 +174,26 @@ NOW lets see the importance of POSITION of dictionary in below example:
 ![Snip20230220_28](https://user-images.githubusercontent.com/93876736/220098380-65e80ea3-c156-4142-852c-ee447fceb628.png)
 
 
-DIctionary conent should always be in end , othwerwise python will through error
+DIctionary conent should always be in end , othwerwise python will through error.
+
+********************************************************************************************************************************
+
+CONCLUSION :
+
+Python offers two forms of variable length arguments:
+
+1.Variable Length tuple
+
+2.Variable-length dictionary
+
+If I want to pass a list or tuple to a function, you I use a variable-length tuple-type argument placing a * symbol in front of the parameter name.
+If I want to pass a dictionary to a function, you could use a variable-length dictionary type argument placing ** in front of the parameter name.
+
+We have some simple and obvious rules.---
+
+* If you are using a variable-length dictionary, it must be the last argument.
+
+* If you are using a variable-length tuple type argument, you can place some more key/value or default arguments after the variable-length tuple argument
 
 
 
