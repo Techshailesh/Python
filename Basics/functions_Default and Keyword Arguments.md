@@ -113,7 +113,23 @@ So, I can call this function with the parameters as key/value like this.
 ****************************************************************************************************************************************************
 
 
+Till now we have been calling function with single values arguments.
+What if we have multiple values for an argument.
+We handle that using "TUPLE" and "DICTIONARY". In python we call it as "Variable length arguments"
+Lets see examples and try to understand.
 
+
+Scenario:
+
+I want to have to have multiple grocery items , lets see below:
+
+I have created a function which accepts customer order details. 
+"*". Notice that I am placing an asterisk symbol before the parameter name. Now Python assumes that the parameter is a tuple. 
+So, placing an asterisk will tell Python that we are expecting a tuple.
+
+
+
+![Snip20230220_22](https://user-images.githubusercontent.com/93876736/220076989-b8ba29a8-6765-41ea-9f1c-50c457c83990.png)
 
 
 
