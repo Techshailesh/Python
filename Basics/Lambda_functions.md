@@ -32,5 +32,13 @@ Below is the syntax to define Lambda function:
 ![Snip20230220_34](https://user-images.githubusercontent.com/93876736/220209142-fc3e1f5a-6251-45b4-aadb-7b00172a9d8b.png)
 
 
+ ###############  Practical Uses of Python lambda function ###################
+ 
+ 
+ Python Lambda Function with if-else
+ 
+ ![Snip20230221_35](https://user-images.githubusercontent.com/93876736/220333089-19b74d77-9bd1-4859-8e17-fb77d84a979a.png)
 
+ 
+ 
 
