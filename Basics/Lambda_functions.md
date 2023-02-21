@@ -38,6 +38,14 @@ Below is the syntax to define Lambda function:
  Python Lambda Function with if-else
  
  ![Snip20230221_35](https://user-images.githubusercontent.com/93876736/220333089-19b74d77-9bd1-4859-8e17-fb77d84a979a.png)
+ 
+ 
+ ** Lambda functions can be used along with built-in functions like filter(), map() and reduce(). 
+ 
+ Example using filter():
+ 
+ ![Snip20230221_36](https://user-images.githubusercontent.com/93876736/220333872-82aa9dff-9fa7-4aa3-8485-fc5d1720fecd.png)
+
 
  
  
