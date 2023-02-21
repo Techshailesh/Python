@@ -46,8 +46,16 @@ Below is the syntax to define Lambda function:
  
  Example using filter():
  
+ The filter() function in Python takes in a function and a list as arguments.
+ 
  ![Snip20230221_36](https://user-images.githubusercontent.com/93876736/220333872-82aa9dff-9fa7-4aa3-8485-fc5d1720fecd.png)
 
+
+ Example using MAP():
+ 
+ The map() function in Python takes in a function and a list as an argument
+ 
+ ![Snip20230221_37](https://user-images.githubusercontent.com/93876736/220336101-f30ac261-43ae-4561-a9a6-9e0af350245e.png)
 
  
  
